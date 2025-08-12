@@ -1,0 +1,1101 @@
+id,gender,geo,income,edu_level,adoption,maslow,reach,value_prop,hourglass,cac,retain,ltv,social_reference,trust_reference,lifestyle,association,values,beliefs,feature_prio,product_consum,media_consum,personality,decision_behav
+1,m,Spain,5,undergrad,laggard,belonging,store,3,adoption,4,2,4,family,leaders,,yoga_studio,self_care,science,privacy,once,inactive,happy,short
+2,f,Australia,5,graduate,laggard,esteem,reddit,3,awareness,5,3,1,friends,influencers,health,gym,liberal,religion,privacy,weekly,active,none,influenced
+3,m,Canada,4,high school,innovator,esteem,school,1,advocacy,2,5,5,family,friends,,gym,liberal,religion,social,weekly,inactive,sad,influenced
+4,f,USA,5,graduate,innovator,belonging,social,2,usage,3,1,5,team,influencers,proactive,health_forums,peace,religion,privacy,monthly,inactive,none,long
+5,m,Australia,4,graduate,early_adoptor,esteem,store,3,expansion,3,4,3,friends,leaders,coffee,gym,liberal,science,privacy,weekly,inactive,sad,short
+6,m,USA,4,graduate,late_mature,belonging,school,3,justify,4,1,1,family,friends,coffee,health_forums,protect,science,ease_of_use,weekly,active,angry,impulsive
+7,f,Australia,1,high school,early_adoptor,actualization,reddit,3,adoption,1,5,3,friends,influencers,proactive,yoga_studio,protect,science,privacy,once,inactive,meek,long
+8,m,Venezuala,4,graduate,early_adoptor,physiological,school,3,usage,5,3,4,team,leaders,coffee,gym,liberal,religion,privacy,daily,active,angry,long
+9,f,Venezuala,3,undergrad,laggard,belonging,reddit,3,justify,5,1,4,family,leaders,coffee,health_forums,peace,science,social,daily,inactive,angry,research
+10,f,Venezuala,5,high school,innovator,safety,store,1,expansion,5,1,1,school,friends,proactive,yoga_studio,self_care,religion,ease_of_use,once,active,meek,long
+11,m,Canada,4,undergrad,early_mature,physiological,reddit,3,interest,2,4,2,school,friends,health,gym,self_care,religion,ease_of_use,daily,inactive,angry,long
+12,m,Venezuala,3,graduate,early_adoptor,safety,reddit,2,usage,2,4,3,family,influencers,,gym,conservative,religion,privacy,weekly,active,meek,short
+13,f,Canada,1,high school,early_adoptor,physiological,reddit,1,retention,4,3,5,friends,friends,proactive,wellness_stores,peace,religion,social,daily,inactive,meek,research
+14,f,Canada,5,graduate,laggard,actualization,social,2,awareness,4,4,1,school,influencers,coffee,health_forums,liberal,religion,ease_of_use,monthly,active,sad,impulsive
+15,m,Germany,3,graduate,early_adoptor,belonging,store,2,expansion,1,2,3,school,leaders,proactive,yoga_studio,protect,science,ease_of_use,weekly,inactive,meek,long
+16,m,USA,3,high school,innovator,esteem,reddit,3,awareness,3,1,3,family,leaders,health,health_forums,peace,science,privacy,once,active,sad,research
+17,f,USA,5,undergrad,laggard,physiological,email,1,interest,5,4,2,team,influencers,,health_forums,self_care,science,ease_of_use,daily,active,meek,long
+18,m,Venezuala,4,high school,late_mature,actualization,school,2,awareness,3,2,5,team,influencers,proactive,gym,protect,religion,ease_of_use,once,inactive,happy,short
+19,m,USA,4,high school,early_mature,actualization,reddit,1,desire,2,5,1,school,leaders,,health_forums,protect,science,social,once,active,none,influenced
+20,f,USA,2,undergrad,early_adoptor,belonging,school,2,justify,3,4,2,team,friends,health,wellness_stores,self_care,science,social,weekly,inactive,sad,research
+21,f,Canada,1,high school,early_adoptor,esteem,email,1,awareness,3,5,5,family,leaders,,health_forums,self_care,science,ease_of_use,daily,inactive,happy,research
+22,m,USA,2,graduate,innovator,physiological,social,3,usage,1,5,2,friends,influencers,coffee,yoga_studio,self_care,science,ease_of_use,daily,active,sad,influenced
+23,m,Spain,4,graduate,early_mature,esteem,social,3,action,3,1,3,team,influencers,health,wellness_stores,peace,religion,ease_of_use,daily,active,meek,short
+24,f,USA,1,high school,late_mature,belonging,email,1,usage,5,5,3,school,leaders,,health_forums,protect,religion,ease_of_use,monthly,inactive,none,research
+25,f,Canada,1,graduate,innovator,esteem,email,1,justify,1,3,5,friends,influencers,coffee,gym,peace,religion,privacy,monthly,inactive,happy,research
+26,f,China,4,undergrad,late_mature,safety,school,2,desire,4,5,3,school,influencers,proactive,gym,peace,science,ease_of_use,once,inactive,meek,short
+27,m,Spain,5,graduate,laggard,actualization,reddit,2,action,4,4,4,team,leaders,health,yoga_studio,protect,religion,privacy,once,inactive,happy,impulsive
+28,m,USA,4,undergrad,innovator,actualization,email,2,adoption,2,3,5,school,leaders,,gym,conservative,science,social,monthly,inactive,angry,impulsive
+29,m,Canada,2,graduate,innovator,physiological,social,2,justify,2,5,2,school,leaders,health,gym,peace,religion,privacy,daily,inactive,none,short
+30,f,Canada,1,high school,laggard,physiological,reddit,3,expansion,3,1,4,friends,leaders,coffee,gym,self_care,science,privacy,weekly,inactive,meek,long
+31,m,Australia,4,graduate,early_adoptor,physiological,email,1,expansion,3,1,3,family,friends,health,yoga_studio,peace,science,social,monthly,inactive,happy,impulsive
+32,m,Spain,1,undergrad,laggard,physiological,email,1,retention,3,5,1,friends,leaders,,health_forums,liberal,science,ease_of_use,monthly,inactive,meek,influenced
+33,f,Germany,3,high school,laggard,esteem,school,2,advocacy,1,4,1,friends,friends,health,yoga_studio,conservative,religion,social,weekly,inactive,angry,impulsive
+34,m,Germany,3,undergrad,laggard,actualization,reddit,1,expansion,1,2,1,school,friends,health,gym,peace,religion,ease_of_use,once,inactive,none,influenced
+35,m,Venezuala,4,high school,early_adoptor,safety,social,3,adoption,3,4,4,school,leaders,,health_forums,protect,science,social,daily,inactive,sad,research
+36,f,Venezuala,5,undergrad,early_adoptor,belonging,school,1,justify,2,5,4,family,influencers,,yoga_studio,self_care,science,social,monthly,inactive,happy,long
+37,f,Canada,2,undergrad,innovator,safety,social,3,awareness,5,3,1,team,friends,proactive,yoga_studio,conservative,religion,social,weekly,inactive,meek,impulsive
+38,f,Australia,4,graduate,early_adoptor,belonging,school,3,adoption,3,5,1,friends,friends,health,wellness_stores,self_care,religion,privacy,monthly,active,none,impulsive
+39,m,USA,2,graduate,early_mature,belonging,store,1,interest,2,2,5,school,leaders,proactive,health_forums,peace,religion,ease_of_use,once,active,happy,long
+40,m,Spain,5,high school,early_adoptor,belonging,store,1,awareness,2,3,2,friends,influencers,coffee,health_forums,peace,religion,ease_of_use,weekly,inactive,sad,short
+41,f,China,1,graduate,early_adoptor,actualization,school,2,advocacy,3,4,4,team,influencers,proactive,health_forums,conservative,science,ease_of_use,once,active,meek,influenced
+42,f,Australia,3,graduate,late_mature,physiological,store,1,awareness,2,4,4,school,friends,,wellness_stores,conservative,religion,privacy,weekly,active,none,long
+43,m,Germany,5,high school,late_mature,safety,school,3,justify,2,4,4,family,friends,health,yoga_studio,protect,religion,social,weekly,active,none,impulsive
+44,m,Germany,4,high school,early_adoptor,esteem,reddit,2,justify,4,1,1,school,friends,proactive,gym,protect,religion,social,monthly,inactive,sad,impulsive
+45,f,China,1,graduate,laggard,belonging,store,2,awareness,1,3,1,family,leaders,,gym,liberal,religion,privacy,once,inactive,sad,influenced
+46,m,USA,1,graduate,laggard,safety,social,3,action,4,1,5,friends,leaders,coffee,gym,self_care,science,privacy,monthly,active,angry,impulsive
+47,f,Spain,3,high school,early_mature,esteem,store,1,advocacy,4,1,1,friends,leaders,coffee,yoga_studio,liberal,science,privacy,weekly,inactive,angry,impulsive
+48,m,Germany,5,high school,innovator,belonging,social,3,action,1,1,1,team,friends,health,gym,protect,science,social,once,inactive,angry,impulsive
+49,f,Germany,5,undergrad,late_mature,safety,store,1,action,5,3,2,team,leaders,coffee,gym,liberal,religion,social,monthly,inactive,happy,influenced
+50,f,USA,5,undergrad,early_adoptor,esteem,school,3,usage,1,2,1,school,influencers,proactive,gym,self_care,religion,privacy,weekly,active,meek,research
+51,m,China,5,high school,early_adoptor,actualization,store,2,justify,4,2,4,friends,influencers,health,wellness_stores,conservative,science,ease_of_use,monthly,inactive,sad,influenced
+52,m,Venezuala,2,high school,early_adoptor,belonging,store,1,desire,4,4,3,school,friends,,health_forums,self_care,religion,privacy,weekly,active,sad,short
+53,m,Germany,2,high school,laggard,esteem,reddit,3,retention,5,5,3,team,influencers,,wellness_stores,conservative,religion,ease_of_use,weekly,active,angry,short
+54,m,China,1,high school,early_adoptor,physiological,social,1,advocacy,1,1,1,friends,influencers,,gym,peace,religion,privacy,weekly,active,angry,influenced
+55,m,Australia,3,undergrad,early_adoptor,physiological,store,1,advocacy,3,2,3,family,friends,coffee,gym,peace,religion,privacy,daily,active,meek,research
+56,f,Spain,5,graduate,late_mature,actualization,school,2,expansion,4,2,3,team,friends,proactive,yoga_studio,peace,religion,ease_of_use,monthly,inactive,happy,influenced
+57,f,Germany,5,graduate,late_mature,actualization,store,3,retention,4,4,2,team,friends,health,yoga_studio,conservative,science,social,monthly,active,angry,long
+58,f,USA,3,undergrad,laggard,physiological,school,3,usage,5,1,1,family,friends,health,gym,protect,science,ease_of_use,daily,active,happy,short
+59,m,China,3,high school,innovator,safety,school,1,adoption,5,2,1,team,influencers,proactive,gym,conservative,religion,privacy,weekly,inactive,angry,short
+60,f,Germany,1,high school,early_adoptor,safety,store,2,advocacy,4,4,4,friends,influencers,health,gym,liberal,religion,social,weekly,active,none,short
+61,m,Germany,5,high school,early_adoptor,esteem,store,2,advocacy,5,1,2,friends,influencers,,gym,protect,science,privacy,once,inactive,meek,impulsive
+62,f,Venezuala,1,graduate,innovator,belonging,school,1,desire,1,1,1,friends,leaders,coffee,health_forums,conservative,religion,ease_of_use,weekly,active,happy,influenced
+63,m,Australia,1,high school,late_mature,esteem,reddit,2,usage,4,2,4,school,friends,proactive,wellness_stores,peace,religion,ease_of_use,once,inactive,happy,impulsive
+64,f,Venezuala,1,high school,innovator,safety,email,2,justify,1,3,2,school,influencers,proactive,health_forums,liberal,science,privacy,once,inactive,angry,short
+65,f,China,5,undergrad,early_mature,safety,social,2,usage,3,3,5,school,leaders,proactive,gym,peace,science,social,daily,active,angry,short
+66,f,Germany,3,high school,early_mature,esteem,school,3,usage,5,3,5,friends,friends,health,wellness_stores,protect,science,privacy,weekly,inactive,angry,research
+67,m,Venezuala,1,graduate,innovator,actualization,store,2,interest,2,4,3,school,friends,health,wellness_stores,self_care,science,social,once,active,none,research
+68,m,Spain,3,graduate,early_adoptor,esteem,reddit,3,desire,3,1,1,school,leaders,proactive,gym,peace,science,privacy,monthly,inactive,none,short
+69,m,Germany,3,graduate,early_adoptor,belonging,school,3,awareness,1,1,2,school,leaders,,gym,peace,science,ease_of_use,weekly,active,angry,short
+70,m,China,2,undergrad,innovator,belonging,reddit,1,expansion,4,3,1,friends,leaders,coffee,health_forums,peace,science,ease_of_use,once,active,sad,influenced
+71,f,USA,2,graduate,innovator,esteem,school,1,desire,3,2,4,school,influencers,,health_forums,protect,science,privacy,once,inactive,none,long
+72,m,China,5,high school,early_mature,physiological,store,1,awareness,3,3,3,friends,influencers,proactive,health_forums,protect,religion,ease_of_use,once,inactive,angry,research
+73,m,Canada,1,undergrad,laggard,physiological,email,3,expansion,1,2,5,family,leaders,health,yoga_studio,protect,science,ease_of_use,daily,inactive,happy,influenced
+74,f,Australia,5,undergrad,innovator,physiological,social,3,expansion,3,5,5,school,leaders,proactive,gym,self_care,science,social,weekly,inactive,happy,long
+75,f,Canada,2,high school,innovator,belonging,store,2,desire,2,4,4,team,influencers,,gym,self_care,science,ease_of_use,once,active,meek,influenced
+76,f,China,5,high school,laggard,esteem,store,2,justify,5,2,1,family,friends,,gym,self_care,religion,privacy,monthly,active,sad,long
+77,f,USA,3,undergrad,late_mature,esteem,reddit,3,action,3,3,4,school,influencers,health,wellness_stores,liberal,science,privacy,daily,active,happy,impulsive
+78,f,Spain,2,graduate,laggard,actualization,social,2,adoption,3,5,1,school,friends,coffee,yoga_studio,liberal,science,privacy,monthly,inactive,meek,long
+79,f,Canada,2,undergrad,early_mature,belonging,email,2,usage,3,2,2,family,friends,,health_forums,conservative,religion,ease_of_use,once,inactive,sad,long
+80,f,USA,3,undergrad,early_mature,safety,reddit,3,desire,3,3,5,family,friends,coffee,gym,liberal,science,ease_of_use,monthly,active,none,influenced
+81,m,Germany,2,undergrad,early_adoptor,physiological,social,2,interest,5,1,5,school,leaders,health,yoga_studio,peace,religion,social,once,inactive,sad,long
+82,m,China,5,undergrad,late_mature,esteem,social,2,interest,2,5,5,family,friends,health,yoga_studio,peace,science,privacy,monthly,active,angry,influenced
+83,f,Germany,3,graduate,early_adoptor,physiological,store,1,expansion,5,5,2,friends,friends,coffee,wellness_stores,conservative,science,ease_of_use,daily,inactive,sad,influenced
+84,m,Canada,3,graduate,late_mature,safety,reddit,2,advocacy,4,5,5,family,influencers,coffee,health_forums,peace,religion,social,once,inactive,none,influenced
+85,m,Germany,1,graduate,laggard,actualization,school,1,adoption,4,5,2,friends,leaders,proactive,health_forums,peace,religion,ease_of_use,weekly,inactive,none,short
+86,m,Canada,5,graduate,innovator,actualization,school,2,justify,4,2,1,team,influencers,,yoga_studio,conservative,religion,privacy,daily,active,none,research
+87,m,USA,4,undergrad,laggard,actualization,school,2,retention,2,3,3,family,influencers,,health_forums,self_care,religion,ease_of_use,weekly,inactive,none,impulsive
+88,f,Australia,2,high school,innovator,esteem,reddit,3,advocacy,3,5,2,team,leaders,health,yoga_studio,protect,science,social,weekly,active,sad,influenced
+89,f,Venezuala,5,high school,late_mature,physiological,reddit,3,action,1,1,5,school,influencers,coffee,health_forums,liberal,religion,privacy,once,inactive,meek,research
+90,f,USA,5,graduate,innovator,esteem,social,2,awareness,5,5,1,school,influencers,proactive,yoga_studio,protect,religion,privacy,daily,inactive,meek,impulsive
+91,m,Germany,4,graduate,late_mature,actualization,store,3,desire,2,3,3,team,influencers,health,wellness_stores,protect,religion,privacy,once,active,sad,research
+92,f,Spain,5,graduate,innovator,safety,email,2,retention,2,1,2,family,leaders,coffee,yoga_studio,self_care,religion,ease_of_use,monthly,inactive,happy,impulsive
+93,m,Canada,4,high school,late_mature,belonging,reddit,2,retention,1,2,5,school,friends,health,wellness_stores,liberal,science,social,daily,active,happy,long
+94,m,USA,2,graduate,laggard,physiological,email,3,advocacy,4,1,1,team,friends,coffee,health_forums,peace,science,ease_of_use,once,inactive,meek,long
+95,m,Venezuala,5,graduate,early_mature,esteem,school,2,retention,4,2,5,family,influencers,health,wellness_stores,peace,religion,ease_of_use,once,inactive,none,short
+96,m,Australia,3,high school,late_mature,esteem,email,1,advocacy,3,3,2,family,leaders,coffee,gym,protect,science,privacy,daily,active,happy,impulsive
+97,f,Canada,1,undergrad,early_mature,actualization,social,1,awareness,5,2,2,family,influencers,,gym,conservative,science,social,weekly,active,angry,long
+98,f,Australia,2,graduate,laggard,safety,school,1,expansion,1,5,3,family,influencers,health,wellness_stores,liberal,religion,social,once,inactive,none,short
+99,m,Australia,4,undergrad,late_mature,actualization,store,1,awareness,2,4,1,family,friends,,yoga_studio,protect,religion,privacy,monthly,inactive,angry,research
+100,m,Spain,3,high school,innovator,physiological,reddit,2,adoption,5,1,4,friends,influencers,,gym,liberal,religion,privacy,daily,inactive,none,long
+101,m,USA,1,high school,early_mature,safety,store,1,retention,4,5,4,team,leaders,,yoga_studio,conservative,science,privacy,weekly,inactive,meek,research
+102,m,China,5,undergrad,late_mature,safety,store,1,awareness,2,3,3,team,influencers,proactive,health_forums,conservative,religion,privacy,once,inactive,happy,impulsive
+103,m,China,4,graduate,innovator,safety,email,2,adoption,3,4,3,team,influencers,proactive,health_forums,conservative,science,privacy,weekly,inactive,sad,impulsive
+104,f,Spain,3,high school,early_adoptor,belonging,email,3,expansion,4,5,5,school,friends,,health_forums,self_care,science,privacy,weekly,active,angry,impulsive
+105,m,China,1,graduate,early_mature,actualization,reddit,2,desire,3,1,4,team,influencers,coffee,health_forums,liberal,science,privacy,monthly,inactive,angry,long
+106,m,China,2,graduate,early_mature,physiological,email,1,action,2,4,4,team,friends,proactive,gym,peace,science,privacy,monthly,active,none,short
+107,m,Australia,1,high school,innovator,esteem,store,1,awareness,1,1,4,friends,influencers,health,health_forums,peace,science,ease_of_use,monthly,active,happy,impulsive
+108,m,Spain,4,high school,early_mature,physiological,social,1,desire,5,1,2,team,leaders,health,health_forums,self_care,religion,social,monthly,active,sad,long
+109,m,Canada,1,undergrad,early_mature,esteem,reddit,2,interest,4,5,3,team,leaders,health,health_forums,protect,religion,privacy,monthly,inactive,happy,impulsive
+110,f,Spain,3,undergrad,laggard,safety,reddit,2,retention,4,5,2,school,friends,health,gym,peace,religion,ease_of_use,weekly,inactive,none,influenced
+111,m,Germany,1,undergrad,innovator,actualization,store,2,expansion,2,1,2,family,influencers,coffee,wellness_stores,liberal,religion,privacy,weekly,active,angry,influenced
+112,m,China,3,graduate,early_adoptor,physiological,school,3,action,1,5,2,school,friends,,health_forums,liberal,science,social,once,inactive,none,influenced
+113,m,Venezuala,3,high school,early_adoptor,physiological,reddit,1,justify,3,1,1,family,leaders,health,yoga_studio,liberal,religion,social,weekly,inactive,none,long
+114,m,Spain,4,high school,innovator,actualization,social,1,interest,4,3,5,school,friends,health,health_forums,self_care,science,privacy,once,active,meek,long
+115,f,Canada,2,graduate,innovator,actualization,reddit,2,desire,1,4,1,team,influencers,health,yoga_studio,protect,science,social,daily,inactive,sad,research
+116,m,China,2,graduate,early_adoptor,belonging,email,1,usage,3,4,3,family,leaders,health,yoga_studio,liberal,science,social,once,inactive,meek,short
+117,m,China,4,undergrad,laggard,safety,school,3,retention,1,4,3,team,influencers,proactive,wellness_stores,peace,religion,privacy,weekly,inactive,meek,long
+118,f,Canada,5,undergrad,innovator,physiological,store,2,action,3,3,4,family,influencers,coffee,yoga_studio,liberal,science,ease_of_use,daily,inactive,sad,influenced
+119,m,China,5,undergrad,early_adoptor,actualization,email,3,action,5,4,3,family,influencers,health,gym,protect,science,privacy,weekly,inactive,angry,short
+120,f,USA,5,graduate,early_adoptor,physiological,reddit,3,usage,2,3,1,friends,influencers,health,wellness_stores,protect,religion,privacy,monthly,active,happy,influenced
+121,f,Canada,1,high school,late_mature,safety,social,3,desire,2,2,4,friends,leaders,,wellness_stores,protect,religion,ease_of_use,daily,active,happy,influenced
+122,m,USA,3,graduate,early_adoptor,belonging,email,2,usage,3,5,4,family,leaders,coffee,gym,protect,science,social,monthly,inactive,none,influenced
+123,f,Venezuala,3,high school,laggard,actualization,reddit,2,expansion,1,4,5,family,influencers,health,yoga_studio,self_care,science,social,weekly,inactive,angry,influenced
+124,f,China,3,graduate,innovator,safety,social,1,expansion,2,1,3,school,leaders,proactive,health_forums,liberal,religion,social,monthly,active,happy,research
+125,m,Venezuala,5,high school,laggard,physiological,email,2,desire,5,3,2,school,leaders,coffee,health_forums,self_care,science,privacy,weekly,inactive,happy,influenced
+126,m,USA,2,undergrad,innovator,physiological,store,2,advocacy,5,2,4,team,influencers,,gym,self_care,religion,privacy,weekly,inactive,happy,long
+127,f,USA,4,high school,innovator,physiological,email,2,usage,3,1,4,family,influencers,coffee,wellness_stores,peace,science,ease_of_use,monthly,inactive,happy,influenced
+128,m,Australia,1,undergrad,early_adoptor,safety,store,2,action,3,5,3,friends,friends,proactive,wellness_stores,liberal,science,social,daily,active,meek,influenced
+129,m,China,4,graduate,early_adoptor,belonging,store,2,retention,4,2,2,school,friends,,health_forums,liberal,science,ease_of_use,once,active,meek,long
+130,f,China,4,high school,early_adoptor,safety,reddit,1,expansion,1,5,1,school,friends,health,health_forums,self_care,religion,social,weekly,inactive,none,influenced
+131,m,Canada,4,graduate,early_mature,belonging,social,1,expansion,3,3,5,family,leaders,proactive,wellness_stores,self_care,religion,social,once,inactive,sad,influenced
+132,m,Spain,5,high school,innovator,esteem,school,1,advocacy,1,3,5,friends,friends,,health_forums,self_care,science,social,once,active,meek,short
+133,f,Australia,4,undergrad,early_mature,safety,social,3,expansion,3,4,2,team,friends,coffee,gym,conservative,science,social,monthly,inactive,happy,short
+134,f,Spain,2,undergrad,early_mature,safety,email,2,retention,1,4,3,family,influencers,coffee,wellness_stores,peace,science,ease_of_use,daily,inactive,sad,short
+135,f,Spain,1,undergrad,late_mature,safety,email,1,retention,1,4,5,family,friends,health,gym,peace,religion,privacy,weekly,inactive,sad,impulsive
+136,m,Spain,3,high school,laggard,esteem,school,3,usage,1,5,3,team,influencers,,yoga_studio,peace,religion,privacy,once,inactive,meek,impulsive
+137,m,Germany,5,undergrad,innovator,belonging,store,1,awareness,3,1,3,team,influencers,health,yoga_studio,conservative,religion,privacy,daily,inactive,happy,research
+138,f,Venezuala,2,high school,innovator,safety,store,1,usage,4,5,1,team,leaders,,wellness_stores,peace,science,privacy,monthly,active,happy,influenced
+139,m,Australia,4,undergrad,early_adoptor,esteem,reddit,2,interest,4,4,3,family,friends,,yoga_studio,self_care,religion,privacy,monthly,active,sad,short
+140,f,USA,2,graduate,early_adoptor,belonging,store,2,expansion,5,5,4,school,friends,health,gym,liberal,science,privacy,monthly,active,none,short
+141,f,Spain,3,graduate,early_adoptor,esteem,reddit,2,action,5,4,4,school,influencers,health,health_forums,self_care,science,social,once,inactive,happy,impulsive
+142,f,China,4,high school,laggard,physiological,school,1,expansion,4,5,3,friends,leaders,health,yoga_studio,liberal,religion,ease_of_use,monthly,inactive,happy,influenced
+143,m,Germany,1,high school,laggard,actualization,store,3,action,2,2,3,school,leaders,health,wellness_stores,liberal,science,privacy,once,active,none,research
+144,f,China,1,high school,late_mature,esteem,store,2,usage,1,3,1,school,influencers,coffee,health_forums,peace,science,social,monthly,inactive,meek,influenced
+145,m,China,3,undergrad,innovator,actualization,store,3,usage,1,5,5,friends,influencers,proactive,gym,conservative,science,privacy,weekly,inactive,angry,influenced
+146,f,Venezuala,3,graduate,laggard,belonging,social,3,desire,5,1,4,school,friends,,gym,protect,science,ease_of_use,weekly,active,none,research
+147,f,Canada,5,high school,late_mature,belonging,store,3,usage,5,4,3,team,friends,,gym,self_care,science,social,weekly,active,sad,short
+148,m,China,1,undergrad,innovator,esteem,social,2,interest,5,4,1,family,friends,proactive,yoga_studio,liberal,religion,social,once,active,happy,research
+149,f,China,4,undergrad,early_adoptor,safety,reddit,2,desire,1,4,3,school,influencers,,gym,conservative,religion,ease_of_use,daily,active,sad,short
+150,m,Canada,5,high school,early_mature,esteem,email,3,action,3,1,2,friends,leaders,health,health_forums,protect,science,privacy,once,inactive,sad,research
+151,m,Spain,2,undergrad,late_mature,safety,school,3,retention,5,5,5,school,friends,health,gym,liberal,religion,ease_of_use,weekly,active,angry,influenced
+152,f,Spain,3,undergrad,early_adoptor,actualization,social,3,advocacy,5,1,5,family,influencers,,yoga_studio,peace,science,privacy,monthly,active,angry,short
+153,m,Venezuala,3,undergrad,innovator,physiological,school,1,interest,2,4,1,school,leaders,,gym,conservative,science,ease_of_use,monthly,inactive,happy,influenced
+154,f,Venezuala,2,undergrad,early_adoptor,actualization,social,3,interest,2,2,1,school,influencers,health,yoga_studio,protect,science,social,weekly,active,meek,research
+155,f,USA,5,graduate,late_mature,esteem,store,3,advocacy,2,5,4,friends,friends,health,yoga_studio,protect,science,social,monthly,active,angry,long
+156,m,Spain,2,undergrad,laggard,safety,social,2,advocacy,4,5,5,family,friends,,yoga_studio,peace,science,social,weekly,active,sad,long
+157,m,Australia,3,undergrad,early_adoptor,belonging,email,3,awareness,4,4,4,school,friends,,yoga_studio,liberal,religion,privacy,monthly,inactive,meek,impulsive
+158,f,USA,1,undergrad,early_mature,actualization,school,2,desire,5,5,4,friends,influencers,,yoga_studio,peace,religion,privacy,once,inactive,meek,impulsive
+159,m,Australia,4,undergrad,early_adoptor,actualization,social,2,usage,4,3,3,school,influencers,,yoga_studio,protect,science,ease_of_use,once,active,happy,research
+160,f,Germany,5,graduate,late_mature,actualization,store,3,expansion,4,1,5,team,influencers,health,wellness_stores,peace,science,social,weekly,active,meek,impulsive
+161,f,USA,1,undergrad,early_adoptor,esteem,store,3,advocacy,3,3,2,family,leaders,coffee,health_forums,protect,religion,ease_of_use,once,inactive,sad,research
+162,m,Venezuala,1,undergrad,laggard,actualization,social,2,awareness,3,5,5,family,leaders,coffee,gym,liberal,science,privacy,daily,inactive,meek,impulsive
+163,f,China,4,graduate,laggard,physiological,email,1,action,5,4,2,school,leaders,coffee,yoga_studio,liberal,religion,social,monthly,active,none,long
+164,f,Canada,5,graduate,late_mature,belonging,email,3,interest,4,3,2,school,friends,coffee,wellness_stores,self_care,science,privacy,daily,inactive,angry,impulsive
+165,f,China,3,undergrad,early_adoptor,belonging,email,3,adoption,1,1,5,family,friends,proactive,wellness_stores,peace,science,privacy,once,inactive,angry,impulsive
+166,f,Venezuala,2,graduate,innovator,actualization,social,1,awareness,2,5,2,friends,influencers,health,gym,liberal,science,ease_of_use,monthly,active,meek,research
+167,m,Spain,1,high school,laggard,physiological,school,2,adoption,1,5,2,friends,leaders,proactive,gym,protect,science,social,monthly,active,angry,long
+168,m,Venezuala,3,graduate,late_mature,actualization,school,2,adoption,1,4,5,family,influencers,coffee,yoga_studio,conservative,religion,social,monthly,active,meek,short
+169,m,Australia,3,graduate,late_mature,actualization,email,2,advocacy,3,4,3,team,influencers,health,gym,self_care,science,privacy,monthly,active,happy,research
+170,f,Australia,1,graduate,early_mature,belonging,store,3,expansion,2,5,5,school,leaders,,yoga_studio,protect,religion,privacy,once,active,none,long
+171,m,Spain,3,high school,late_mature,actualization,school,2,interest,4,4,2,team,leaders,coffee,health_forums,protect,religion,social,daily,inactive,meek,influenced
+172,m,Venezuala,1,high school,laggard,safety,email,3,usage,3,2,4,school,leaders,health,yoga_studio,liberal,science,privacy,once,inactive,meek,research
+173,m,Germany,5,undergrad,late_mature,safety,store,3,adoption,2,3,3,friends,friends,,gym,protect,science,ease_of_use,daily,active,meek,long
+174,m,Germany,1,undergrad,early_adoptor,safety,store,3,interest,4,3,3,family,leaders,,health_forums,conservative,religion,social,once,active,happy,impulsive
+175,f,Canada,2,graduate,laggard,actualization,store,3,adoption,3,1,2,team,influencers,health,yoga_studio,self_care,science,privacy,monthly,active,angry,long
+176,f,Australia,4,graduate,laggard,physiological,email,1,adoption,4,2,2,family,friends,,wellness_stores,liberal,religion,social,once,active,none,influenced
+177,f,Germany,5,high school,innovator,esteem,email,1,awareness,2,4,1,school,friends,proactive,gym,self_care,religion,ease_of_use,once,inactive,happy,research
+178,m,Germany,5,high school,early_adoptor,actualization,reddit,3,adoption,4,1,4,family,influencers,,gym,liberal,religion,social,daily,inactive,none,research
+179,m,China,5,graduate,early_mature,safety,store,3,desire,5,2,5,friends,friends,coffee,wellness_stores,peace,religion,privacy,daily,inactive,sad,research
+180,f,Germany,4,graduate,late_mature,safety,email,1,interest,2,4,1,family,friends,coffee,yoga_studio,self_care,science,privacy,once,active,none,influenced
+181,f,Germany,3,graduate,laggard,physiological,store,1,desire,4,2,4,team,friends,coffee,gym,self_care,religion,social,once,inactive,angry,impulsive
+182,f,Venezuala,4,high school,innovator,esteem,reddit,3,justify,1,3,4,friends,influencers,proactive,yoga_studio,conservative,religion,ease_of_use,weekly,active,meek,short
+183,f,USA,2,undergrad,early_adoptor,physiological,social,3,justify,5,3,2,school,friends,,health_forums,protect,religion,social,daily,inactive,meek,influenced
+184,f,Australia,2,graduate,late_mature,physiological,reddit,1,action,4,3,5,friends,influencers,health,gym,conservative,science,privacy,daily,inactive,happy,long
+185,m,Spain,1,graduate,laggard,actualization,email,1,adoption,1,5,5,friends,influencers,,gym,conservative,religion,privacy,monthly,inactive,meek,long
+186,f,Spain,3,undergrad,innovator,belonging,school,2,awareness,4,1,4,family,influencers,coffee,health_forums,self_care,science,social,daily,active,none,influenced
+187,f,Germany,3,high school,innovator,physiological,reddit,3,expansion,2,1,2,team,influencers,coffee,yoga_studio,protect,religion,social,weekly,active,sad,long
+188,m,Canada,4,undergrad,late_mature,belonging,reddit,1,justify,4,4,5,family,friends,health,gym,protect,religion,ease_of_use,daily,inactive,sad,impulsive
+189,m,Germany,4,graduate,early_adoptor,physiological,store,2,advocacy,4,4,5,family,friends,,yoga_studio,conservative,science,privacy,once,active,none,impulsive
+190,f,Germany,2,high school,laggard,safety,school,2,awareness,1,2,4,team,influencers,proactive,health_forums,peace,religion,ease_of_use,daily,inactive,happy,impulsive
+191,f,Venezuala,2,undergrad,laggard,esteem,reddit,3,expansion,3,5,2,team,influencers,coffee,wellness_stores,conservative,religion,privacy,weekly,inactive,happy,research
+192,f,Venezuala,1,graduate,innovator,esteem,social,2,retention,4,4,3,school,friends,,gym,liberal,religion,privacy,once,inactive,angry,influenced
+193,m,Germany,4,high school,late_mature,physiological,store,2,usage,5,5,3,school,leaders,health,yoga_studio,protect,religion,social,daily,inactive,meek,short
+194,m,USA,5,graduate,late_mature,belonging,store,3,desire,1,3,1,team,influencers,,gym,peace,religion,social,once,inactive,happy,short
+195,m,Australia,2,graduate,innovator,safety,school,3,action,4,1,4,team,friends,proactive,gym,conservative,science,social,weekly,inactive,angry,short
+196,m,China,2,graduate,early_adoptor,physiological,school,2,adoption,2,4,3,team,leaders,proactive,health_forums,peace,religion,social,monthly,active,none,short
+197,f,Australia,5,graduate,early_adoptor,safety,school,1,awareness,2,5,3,school,leaders,,wellness_stores,protect,religion,social,once,active,angry,research
+198,m,Venezuala,2,graduate,early_adoptor,esteem,email,2,interest,3,3,2,family,influencers,,yoga_studio,peace,religion,ease_of_use,monthly,active,angry,short
+199,m,Australia,1,undergrad,early_mature,physiological,social,2,expansion,2,3,1,team,friends,proactive,yoga_studio,peace,science,ease_of_use,once,active,sad,long
+200,m,Venezuala,1,undergrad,innovator,safety,school,1,justify,3,5,4,school,leaders,,yoga_studio,protect,science,social,once,inactive,none,research
+201,m,USA,5,graduate,innovator,belonging,social,3,awareness,3,4,4,family,friends,coffee,gym,peace,religion,privacy,once,inactive,meek,research
+202,f,China,2,undergrad,laggard,physiological,school,1,justify,1,1,3,friends,leaders,proactive,yoga_studio,liberal,religion,social,monthly,active,meek,influenced
+203,m,China,1,undergrad,laggard,physiological,reddit,2,adoption,3,5,3,team,friends,health,yoga_studio,peace,science,social,daily,inactive,sad,influenced
+204,m,Canada,2,undergrad,early_adoptor,safety,school,3,usage,2,5,5,family,influencers,coffee,wellness_stores,protect,science,ease_of_use,monthly,active,angry,impulsive
+205,f,Spain,4,high school,early_adoptor,safety,email,3,usage,3,4,2,team,leaders,proactive,health_forums,liberal,religion,privacy,daily,active,none,short
+206,f,Spain,3,undergrad,late_mature,esteem,email,3,usage,3,5,1,family,influencers,,gym,conservative,science,ease_of_use,weekly,active,happy,influenced
+207,f,China,1,graduate,early_mature,belonging,reddit,2,awareness,1,5,1,family,leaders,,gym,conservative,science,ease_of_use,once,active,sad,research
+208,f,Canada,5,high school,early_mature,physiological,store,3,retention,1,2,5,school,friends,coffee,yoga_studio,self_care,religion,privacy,daily,inactive,none,research
+209,f,Germany,4,graduate,innovator,physiological,social,1,expansion,4,4,2,team,leaders,,gym,peace,religion,privacy,weekly,inactive,sad,influenced
+210,m,China,1,high school,innovator,actualization,store,3,justify,1,4,2,friends,friends,health,health_forums,protect,religion,privacy,weekly,inactive,angry,impulsive
+211,m,Australia,2,graduate,early_adoptor,safety,email,1,adoption,3,2,5,team,influencers,proactive,yoga_studio,peace,science,social,weekly,active,none,short
+212,m,China,5,graduate,laggard,safety,email,3,justify,5,4,1,team,friends,,health_forums,self_care,science,social,once,active,none,influenced
+213,f,Spain,3,undergrad,innovator,esteem,social,1,action,1,4,3,family,leaders,,gym,protect,religion,ease_of_use,weekly,inactive,sad,impulsive
+214,f,Canada,3,graduate,early_adoptor,physiological,school,3,advocacy,3,1,4,family,influencers,,yoga_studio,conservative,religion,social,monthly,inactive,angry,impulsive
+215,m,USA,4,undergrad,early_adoptor,esteem,store,3,justify,1,2,4,school,friends,health,gym,liberal,science,ease_of_use,once,inactive,angry,influenced
+216,m,China,5,high school,innovator,esteem,reddit,1,desire,4,5,4,school,friends,coffee,yoga_studio,self_care,religion,ease_of_use,weekly,inactive,sad,impulsive
+217,m,China,3,high school,early_adoptor,safety,social,1,adoption,3,1,3,team,influencers,proactive,health_forums,self_care,religion,ease_of_use,monthly,active,none,short
+218,m,China,4,graduate,laggard,belonging,social,2,usage,3,5,2,school,leaders,coffee,health_forums,self_care,religion,ease_of_use,monthly,inactive,meek,research
+219,m,Canada,1,high school,early_adoptor,actualization,store,2,expansion,1,3,3,friends,friends,health,health_forums,protect,religion,social,once,active,sad,influenced
+220,f,Spain,5,high school,early_mature,actualization,school,2,awareness,3,3,1,team,friends,proactive,health_forums,conservative,science,social,monthly,inactive,sad,influenced
+221,m,Venezuala,2,high school,late_mature,safety,store,3,advocacy,5,3,4,team,friends,proactive,wellness_stores,peace,religion,social,monthly,inactive,meek,short
+222,m,USA,3,graduate,late_mature,actualization,store,3,awareness,5,2,1,friends,friends,coffee,yoga_studio,peace,religion,ease_of_use,monthly,active,meek,research
+223,m,Canada,3,undergrad,innovator,physiological,email,1,interest,3,5,3,friends,influencers,proactive,wellness_stores,self_care,religion,privacy,monthly,active,meek,impulsive
+224,f,Germany,3,undergrad,early_adoptor,physiological,email,2,adoption,1,2,3,team,leaders,,health_forums,conservative,religion,social,once,inactive,angry,short
+225,m,Venezuala,4,graduate,early_adoptor,esteem,store,3,expansion,1,5,1,family,influencers,coffee,yoga_studio,peace,science,ease_of_use,daily,active,happy,long
+226,f,Canada,3,graduate,early_adoptor,esteem,email,3,action,1,3,2,friends,influencers,health,gym,liberal,religion,ease_of_use,daily,inactive,happy,influenced
+227,f,Spain,3,graduate,early_mature,esteem,reddit,2,advocacy,3,4,1,school,friends,health,yoga_studio,self_care,science,social,once,inactive,angry,short
+228,f,Canada,2,graduate,early_adoptor,safety,reddit,1,action,1,1,4,friends,friends,health,yoga_studio,peace,science,social,once,active,meek,short
+229,m,Venezuala,2,high school,innovator,actualization,reddit,3,interest,3,3,1,friends,leaders,health,wellness_stores,peace,religion,ease_of_use,weekly,active,meek,impulsive
+230,m,Canada,1,graduate,innovator,actualization,reddit,1,expansion,4,3,5,friends,influencers,proactive,health_forums,protect,religion,social,daily,active,happy,long
+231,f,Venezuala,5,high school,early_mature,actualization,reddit,1,advocacy,5,2,1,friends,influencers,proactive,wellness_stores,conservative,science,privacy,monthly,active,meek,long
+232,f,Australia,4,graduate,innovator,esteem,school,3,justify,5,3,3,friends,leaders,proactive,yoga_studio,self_care,religion,privacy,once,inactive,happy,impulsive
+233,f,China,2,graduate,laggard,actualization,social,3,retention,1,1,1,school,leaders,coffee,wellness_stores,protect,science,ease_of_use,once,active,none,impulsive
+234,f,Australia,4,undergrad,innovator,belonging,email,2,expansion,2,3,5,team,influencers,coffee,yoga_studio,self_care,religion,social,monthly,active,happy,short
+235,f,Australia,2,undergrad,late_mature,safety,school,1,awareness,2,5,2,family,leaders,coffee,wellness_stores,liberal,science,privacy,daily,inactive,meek,short
+236,m,USA,5,high school,innovator,belonging,store,2,usage,5,2,1,friends,influencers,health,health_forums,liberal,science,privacy,daily,inactive,sad,short
+237,f,Australia,5,graduate,early_mature,safety,reddit,1,interest,2,1,4,friends,leaders,,wellness_stores,peace,religion,privacy,weekly,active,sad,impulsive
+238,m,Germany,1,undergrad,early_mature,safety,store,1,desire,2,2,5,team,influencers,coffee,wellness_stores,conservative,religion,social,daily,active,none,long
+239,m,China,2,high school,innovator,safety,store,2,adoption,5,4,2,school,friends,coffee,health_forums,liberal,science,privacy,once,inactive,sad,long
+240,m,Germany,2,graduate,innovator,safety,school,1,retention,2,5,4,friends,influencers,health,health_forums,peace,science,ease_of_use,weekly,inactive,happy,short
+241,f,Venezuala,4,undergrad,innovator,physiological,social,3,adoption,3,2,3,team,influencers,,wellness_stores,protect,religion,ease_of_use,once,inactive,none,impulsive
+242,m,Spain,2,undergrad,late_mature,safety,school,1,advocacy,1,5,5,family,friends,coffee,yoga_studio,conservative,religion,ease_of_use,weekly,inactive,angry,short
+243,m,Spain,2,high school,innovator,physiological,school,2,interest,2,1,1,school,influencers,proactive,wellness_stores,peace,science,social,daily,inactive,none,short
+244,f,China,3,high school,late_mature,physiological,email,3,desire,2,2,5,family,friends,proactive,health_forums,liberal,science,social,monthly,active,angry,long
+245,m,Germany,3,high school,early_adoptor,safety,reddit,2,awareness,4,3,2,family,influencers,proactive,yoga_studio,peace,religion,social,daily,active,sad,influenced
+246,f,Australia,5,graduate,innovator,physiological,reddit,2,justify,3,4,3,school,leaders,,gym,protect,science,social,monthly,inactive,happy,research
+247,m,USA,3,high school,innovator,physiological,email,2,retention,3,4,3,school,leaders,health,gym,peace,science,ease_of_use,daily,inactive,angry,research
+248,f,Germany,3,undergrad,early_adoptor,actualization,email,1,advocacy,2,2,4,family,leaders,health,wellness_stores,self_care,science,social,weekly,active,angry,short
+249,f,Venezuala,3,high school,early_adoptor,safety,school,3,adoption,2,3,1,school,leaders,,wellness_stores,peace,science,ease_of_use,daily,active,sad,long
+250,f,Spain,1,graduate,innovator,safety,store,2,expansion,5,2,1,family,friends,health,yoga_studio,peace,science,social,daily,active,angry,long
+251,m,Germany,5,high school,early_mature,actualization,email,1,awareness,2,4,1,friends,friends,,yoga_studio,protect,science,ease_of_use,once,active,sad,research
+252,m,Canada,1,undergrad,late_mature,esteem,school,1,expansion,2,3,2,family,friends,health,yoga_studio,protect,religion,social,daily,active,meek,research
+253,m,Venezuala,3,high school,innovator,safety,store,2,usage,3,4,1,team,influencers,,yoga_studio,conservative,science,ease_of_use,once,inactive,meek,influenced
+254,m,Australia,1,undergrad,laggard,actualization,store,1,usage,3,1,3,family,influencers,,yoga_studio,protect,religion,ease_of_use,once,active,none,long
+255,f,USA,1,high school,late_mature,esteem,store,2,desire,5,2,4,friends,friends,,health_forums,peace,science,ease_of_use,weekly,inactive,angry,influenced
+256,m,Australia,2,graduate,early_mature,physiological,social,3,action,2,4,4,team,influencers,health,wellness_stores,conservative,science,ease_of_use,weekly,inactive,meek,influenced
+257,f,Germany,4,graduate,early_mature,esteem,store,1,retention,1,5,4,school,influencers,,health_forums,peace,science,social,daily,inactive,meek,impulsive
+258,f,USA,5,undergrad,innovator,belonging,reddit,2,action,4,2,4,team,influencers,health,health_forums,peace,religion,privacy,weekly,inactive,sad,short
+259,f,China,4,graduate,late_mature,actualization,school,1,expansion,4,5,2,team,leaders,proactive,health_forums,peace,science,privacy,daily,active,none,long
+260,f,China,5,high school,laggard,belonging,school,2,usage,5,1,5,school,leaders,,yoga_studio,self_care,religion,ease_of_use,weekly,inactive,happy,influenced
+261,f,Venezuala,5,graduate,innovator,actualization,store,3,expansion,2,2,5,school,friends,coffee,health_forums,protect,science,social,monthly,active,sad,influenced
+262,m,Germany,3,graduate,laggard,esteem,email,2,advocacy,5,2,2,family,leaders,coffee,health_forums,liberal,religion,ease_of_use,once,inactive,happy,long
+263,f,China,4,graduate,innovator,physiological,store,3,justify,4,1,3,school,influencers,proactive,gym,liberal,religion,privacy,daily,active,happy,long
+264,f,China,5,graduate,laggard,actualization,store,3,awareness,5,1,3,friends,friends,coffee,gym,protect,science,privacy,daily,active,none,research
+265,f,Canada,1,undergrad,early_adoptor,esteem,school,1,desire,2,2,2,family,friends,health,gym,liberal,science,ease_of_use,once,inactive,sad,influenced
+266,m,Canada,5,graduate,early_mature,actualization,email,1,expansion,5,4,1,family,leaders,proactive,health_forums,peace,religion,ease_of_use,monthly,inactive,happy,impulsive
+267,f,Germany,5,undergrad,early_adoptor,physiological,reddit,3,interest,3,5,2,friends,influencers,proactive,gym,protect,religion,social,daily,inactive,meek,short
+268,f,USA,2,undergrad,late_mature,physiological,social,1,adoption,1,2,4,team,leaders,health,yoga_studio,protect,religion,social,monthly,inactive,meek,research
+269,m,Germany,1,undergrad,late_mature,physiological,school,3,expansion,5,1,3,friends,friends,,wellness_stores,liberal,religion,social,daily,active,angry,influenced
+270,f,USA,5,graduate,innovator,physiological,reddit,2,justify,4,5,2,school,influencers,coffee,health_forums,conservative,religion,ease_of_use,monthly,active,angry,research
+271,f,Venezuala,3,undergrad,early_mature,physiological,social,3,action,1,1,2,school,friends,,health_forums,self_care,religion,ease_of_use,daily,active,happy,long
+272,f,USA,4,undergrad,innovator,actualization,social,1,justify,4,1,1,family,leaders,proactive,health_forums,liberal,science,privacy,monthly,active,meek,impulsive
+273,m,Australia,4,graduate,late_mature,safety,store,3,justify,2,4,4,team,friends,proactive,yoga_studio,conservative,science,privacy,monthly,active,sad,impulsive
+274,f,USA,4,undergrad,early_adoptor,belonging,store,2,justify,2,3,5,friends,friends,proactive,yoga_studio,self_care,science,social,weekly,inactive,none,influenced
+275,m,Venezuala,3,high school,late_mature,belonging,social,2,action,4,2,2,school,leaders,health,wellness_stores,self_care,religion,ease_of_use,daily,active,sad,long
+276,m,Australia,2,undergrad,early_adoptor,belonging,reddit,1,advocacy,4,3,2,family,influencers,coffee,health_forums,peace,religion,ease_of_use,daily,inactive,angry,short
+277,f,Australia,2,undergrad,innovator,safety,store,1,awareness,3,4,1,school,influencers,proactive,wellness_stores,protect,science,ease_of_use,once,inactive,angry,influenced
+278,m,USA,3,graduate,late_mature,actualization,store,3,action,5,2,2,family,leaders,,yoga_studio,self_care,religion,social,monthly,active,angry,long
+279,m,Spain,3,high school,late_mature,physiological,store,2,adoption,3,1,3,school,leaders,coffee,health_forums,conservative,science,ease_of_use,daily,inactive,none,short
+280,f,China,3,graduate,early_mature,esteem,school,2,advocacy,5,2,2,family,influencers,proactive,gym,liberal,science,ease_of_use,monthly,active,happy,short
+281,m,USA,4,high school,laggard,actualization,social,3,desire,3,1,5,friends,friends,coffee,yoga_studio,protect,science,social,daily,active,angry,short
+282,m,Germany,2,undergrad,early_adoptor,esteem,social,1,awareness,4,2,3,family,influencers,,gym,protect,science,social,monthly,inactive,none,impulsive
+283,m,USA,5,undergrad,early_adoptor,actualization,school,1,adoption,1,1,4,friends,leaders,health,gym,liberal,religion,social,daily,inactive,happy,short
+284,f,Spain,3,undergrad,early_mature,belonging,reddit,3,justify,2,3,2,family,leaders,coffee,health_forums,protect,science,ease_of_use,monthly,inactive,angry,long
+285,f,Venezuala,2,undergrad,early_mature,esteem,social,2,desire,5,5,5,family,friends,proactive,health_forums,conservative,religion,ease_of_use,once,inactive,angry,research
+286,m,Australia,2,high school,early_adoptor,safety,email,1,action,4,3,3,family,friends,proactive,gym,self_care,religion,ease_of_use,weekly,active,angry,influenced
+287,m,Australia,4,high school,late_mature,belonging,store,2,action,5,1,1,family,friends,coffee,health_forums,liberal,religion,ease_of_use,once,active,happy,influenced
+288,f,Spain,3,graduate,early_adoptor,physiological,email,1,interest,4,1,1,family,influencers,proactive,wellness_stores,conservative,science,privacy,daily,active,sad,impulsive
+289,f,Canada,3,high school,innovator,esteem,social,1,justify,1,2,2,school,leaders,,wellness_stores,conservative,science,privacy,once,inactive,meek,long
+290,f,Germany,3,graduate,laggard,safety,email,2,awareness,3,3,4,team,influencers,coffee,gym,self_care,science,privacy,monthly,inactive,sad,research
+291,m,USA,3,undergrad,innovator,esteem,school,1,desire,2,2,1,family,leaders,health,gym,conservative,science,privacy,monthly,inactive,none,impulsive
+292,f,Venezuala,5,high school,laggard,actualization,reddit,1,expansion,4,5,1,team,influencers,proactive,yoga_studio,peace,science,ease_of_use,once,inactive,meek,short
+293,f,Venezuala,3,high school,early_mature,actualization,reddit,1,usage,3,2,3,school,leaders,coffee,yoga_studio,liberal,science,social,daily,active,happy,impulsive
+294,m,Spain,3,high school,early_adoptor,esteem,school,3,interest,3,1,1,team,leaders,proactive,gym,self_care,religion,ease_of_use,once,active,happy,research
+295,m,Germany,2,graduate,laggard,safety,store,1,adoption,5,4,2,school,leaders,proactive,health_forums,self_care,religion,ease_of_use,daily,active,none,impulsive
+296,m,China,5,high school,early_mature,belonging,school,2,awareness,2,5,4,friends,influencers,,gym,liberal,science,privacy,weekly,active,happy,long
+297,f,Venezuala,1,undergrad,late_mature,belonging,social,2,adoption,4,2,1,school,influencers,proactive,wellness_stores,peace,science,social,weekly,inactive,angry,long
+298,f,USA,2,high school,late_mature,esteem,store,2,justify,2,2,5,team,friends,proactive,yoga_studio,peace,religion,ease_of_use,weekly,inactive,happy,impulsive
+299,m,Australia,4,high school,late_mature,safety,email,1,interest,3,3,5,team,friends,health,wellness_stores,conservative,religion,ease_of_use,once,inactive,angry,short
+300,m,Spain,3,undergrad,late_mature,belonging,email,3,justify,3,4,4,family,influencers,,health_forums,protect,religion,privacy,daily,inactive,angry,influenced
+301,f,Venezuala,5,high school,innovator,safety,email,3,usage,1,4,1,family,friends,coffee,yoga_studio,protect,science,ease_of_use,weekly,inactive,sad,short
+302,f,Venezuala,3,high school,late_mature,safety,social,2,awareness,4,5,5,team,influencers,health,yoga_studio,peace,science,privacy,once,active,none,influenced
+303,m,China,1,graduate,early_mature,safety,school,2,adoption,4,5,1,team,leaders,,health_forums,self_care,science,social,weekly,inactive,sad,impulsive
+304,f,Germany,3,high school,early_mature,physiological,reddit,2,usage,5,5,3,school,influencers,proactive,health_forums,conservative,religion,ease_of_use,daily,inactive,none,research
+305,f,Canada,2,graduate,early_mature,belonging,store,2,desire,3,1,5,team,leaders,proactive,health_forums,self_care,science,ease_of_use,once,active,happy,research
+306,m,USA,2,undergrad,early_mature,belonging,email,3,awareness,3,3,2,team,leaders,coffee,wellness_stores,peace,science,privacy,daily,active,happy,research
+307,m,Venezuala,2,high school,early_mature,esteem,social,3,usage,1,3,5,school,friends,health,yoga_studio,conservative,science,social,once,inactive,angry,research
+308,f,Germany,5,graduate,early_adoptor,safety,reddit,1,justify,1,1,3,friends,friends,proactive,yoga_studio,liberal,religion,privacy,daily,active,none,short
+309,m,China,2,high school,early_adoptor,safety,school,2,action,3,2,2,family,leaders,proactive,yoga_studio,peace,science,social,weekly,active,sad,research
+310,m,Spain,1,high school,late_mature,physiological,school,2,usage,2,5,2,team,influencers,,health_forums,conservative,religion,ease_of_use,monthly,inactive,happy,influenced
+311,f,Venezuala,1,graduate,late_mature,safety,school,3,adoption,3,2,2,team,influencers,proactive,health_forums,self_care,religion,ease_of_use,daily,inactive,angry,short
+312,f,Spain,1,graduate,innovator,physiological,social,1,usage,3,5,4,friends,friends,proactive,gym,peace,science,social,monthly,inactive,happy,research
+313,m,China,2,graduate,early_mature,actualization,social,1,retention,2,4,2,friends,leaders,coffee,gym,peace,religion,ease_of_use,daily,inactive,none,impulsive
+314,m,Spain,5,undergrad,early_adoptor,actualization,email,3,action,5,3,1,family,leaders,,gym,conservative,science,social,daily,inactive,meek,research
+315,m,Venezuala,4,graduate,late_mature,safety,reddit,1,usage,4,4,4,friends,leaders,proactive,health_forums,protect,science,privacy,weekly,inactive,happy,influenced
+316,f,Venezuala,2,undergrad,early_mature,actualization,email,3,awareness,1,1,1,family,friends,proactive,yoga_studio,self_care,science,privacy,monthly,inactive,meek,research
+317,m,Canada,5,graduate,early_mature,belonging,store,3,interest,1,5,3,family,influencers,proactive,yoga_studio,conservative,religion,privacy,daily,active,sad,influenced
+318,f,Australia,2,graduate,laggard,belonging,school,2,awareness,5,3,4,friends,friends,,yoga_studio,protect,religion,privacy,monthly,active,angry,impulsive
+319,m,Spain,3,graduate,early_adoptor,actualization,reddit,3,interest,3,2,1,school,influencers,proactive,wellness_stores,conservative,religion,social,weekly,inactive,happy,long
+320,f,Venezuala,3,graduate,early_adoptor,safety,reddit,1,awareness,1,5,4,family,influencers,,wellness_stores,self_care,science,ease_of_use,once,inactive,meek,influenced
+321,m,Canada,4,graduate,early_mature,safety,store,2,expansion,5,5,1,family,influencers,proactive,health_forums,conservative,religion,privacy,monthly,active,meek,short
+322,f,Venezuala,3,undergrad,late_mature,esteem,school,2,usage,4,1,2,friends,influencers,,wellness_stores,self_care,religion,privacy,monthly,inactive,none,short
+323,m,Germany,4,undergrad,early_adoptor,physiological,school,2,desire,3,4,4,friends,influencers,proactive,wellness_stores,liberal,science,ease_of_use,daily,inactive,none,long
+324,f,Australia,3,high school,early_adoptor,safety,store,2,usage,3,1,5,school,friends,coffee,health_forums,peace,science,privacy,monthly,inactive,angry,long
+325,m,Germany,4,high school,laggard,belonging,reddit,1,action,5,5,4,school,leaders,proactive,health_forums,peace,science,privacy,weekly,active,happy,long
+326,m,Germany,2,high school,early_mature,physiological,store,2,desire,5,4,4,team,influencers,health,health_forums,peace,science,social,daily,inactive,sad,short
+327,m,Canada,5,high school,early_mature,physiological,reddit,1,expansion,2,2,4,school,friends,coffee,gym,liberal,science,ease_of_use,daily,active,meek,influenced
+328,f,USA,1,graduate,innovator,belonging,store,1,retention,2,5,4,team,influencers,health,gym,self_care,science,ease_of_use,daily,active,meek,impulsive
+329,m,Canada,5,high school,innovator,safety,email,1,expansion,5,3,5,school,friends,coffee,yoga_studio,peace,science,social,monthly,inactive,sad,influenced
+330,m,Spain,1,graduate,innovator,physiological,reddit,1,usage,1,2,3,family,leaders,health,gym,self_care,religion,social,once,inactive,happy,long
+331,m,Spain,4,graduate,innovator,belonging,reddit,2,usage,3,1,2,team,leaders,coffee,wellness_stores,conservative,religion,privacy,once,inactive,meek,impulsive
+332,m,Germany,5,undergrad,early_adoptor,physiological,store,3,expansion,4,3,4,friends,friends,health,gym,conservative,science,social,monthly,inactive,angry,impulsive
+333,f,Spain,5,undergrad,laggard,esteem,school,2,advocacy,4,3,2,school,friends,,yoga_studio,peace,science,privacy,weekly,inactive,none,impulsive
+334,f,Spain,4,graduate,innovator,esteem,social,2,interest,2,2,5,friends,influencers,proactive,wellness_stores,protect,science,social,once,inactive,sad,long
+335,m,Australia,2,graduate,innovator,esteem,store,3,adoption,5,3,5,family,influencers,coffee,wellness_stores,peace,religion,social,weekly,active,sad,influenced
+336,m,Canada,4,undergrad,early_mature,physiological,email,3,desire,5,1,3,family,friends,,yoga_studio,protect,religion,ease_of_use,once,inactive,angry,influenced
+337,m,China,1,undergrad,late_mature,physiological,store,3,advocacy,5,2,5,school,influencers,,yoga_studio,liberal,religion,privacy,once,active,angry,impulsive
+338,f,USA,5,graduate,late_mature,actualization,social,1,interest,4,1,4,friends,influencers,health,health_forums,peace,science,privacy,weekly,inactive,angry,influenced
+339,f,Spain,4,undergrad,early_adoptor,physiological,store,3,desire,1,2,5,family,influencers,health,health_forums,peace,science,privacy,once,active,angry,short
+340,m,Spain,4,graduate,late_mature,physiological,reddit,2,retention,4,4,4,family,leaders,health,yoga_studio,protect,science,social,weekly,inactive,happy,long
+341,f,USA,4,graduate,early_adoptor,physiological,school,3,retention,1,3,5,friends,leaders,,yoga_studio,protect,science,social,daily,inactive,sad,influenced
+342,f,USA,1,undergrad,early_adoptor,belonging,reddit,2,interest,4,4,4,family,friends,,wellness_stores,conservative,science,social,daily,inactive,meek,long
+343,f,Venezuala,3,undergrad,early_adoptor,belonging,store,3,awareness,4,3,5,family,leaders,health,health_forums,peace,religion,social,weekly,active,happy,long
+344,f,Canada,4,undergrad,early_adoptor,actualization,reddit,2,awareness,4,2,5,family,friends,proactive,health_forums,peace,science,social,monthly,inactive,angry,impulsive
+345,m,Spain,1,undergrad,early_adoptor,esteem,reddit,1,advocacy,4,5,5,team,friends,coffee,gym,protect,religion,ease_of_use,daily,inactive,none,short
+346,m,China,3,graduate,early_adoptor,esteem,social,3,desire,3,5,3,family,friends,health,health_forums,self_care,science,social,once,inactive,none,research
+347,f,China,2,high school,innovator,safety,reddit,2,adoption,5,4,1,family,leaders,proactive,yoga_studio,liberal,religion,ease_of_use,weekly,active,sad,long
+348,f,USA,4,graduate,early_mature,esteem,reddit,1,retention,1,5,3,friends,friends,,gym,self_care,religion,ease_of_use,monthly,active,sad,impulsive
+349,f,Venezuala,5,graduate,innovator,safety,reddit,2,retention,3,3,3,school,leaders,,yoga_studio,peace,religion,social,once,active,happy,influenced
+350,f,Germany,4,graduate,late_mature,actualization,social,1,justify,1,3,4,family,friends,coffee,wellness_stores,peace,religion,privacy,monthly,inactive,none,long
+351,m,Australia,2,high school,innovator,esteem,school,3,adoption,2,1,4,family,friends,coffee,health_forums,self_care,science,social,monthly,inactive,none,research
+352,m,China,5,graduate,laggard,safety,reddit,3,awareness,1,2,1,family,friends,proactive,wellness_stores,protect,religion,social,weekly,inactive,meek,short
+353,f,Germany,2,graduate,late_mature,actualization,store,2,interest,5,1,1,family,influencers,health,gym,self_care,religion,ease_of_use,monthly,inactive,happy,research
+354,m,USA,5,high school,early_mature,physiological,reddit,1,action,4,1,1,family,influencers,health,wellness_stores,protect,religion,social,weekly,inactive,angry,research
+355,f,Venezuala,3,high school,early_mature,belonging,school,2,awareness,2,3,3,school,friends,proactive,yoga_studio,peace,science,ease_of_use,monthly,inactive,meek,short
+356,m,Canada,2,high school,innovator,esteem,social,1,awareness,4,1,3,friends,friends,,yoga_studio,self_care,science,social,weekly,active,meek,long
+357,m,Spain,5,graduate,early_mature,safety,email,2,awareness,2,4,1,team,friends,proactive,yoga_studio,peace,science,social,once,inactive,angry,long
+358,m,Spain,1,undergrad,early_adoptor,actualization,school,3,adoption,2,3,4,team,friends,proactive,yoga_studio,liberal,science,social,weekly,inactive,none,long
+359,m,Spain,3,undergrad,early_mature,esteem,reddit,2,action,3,3,3,friends,leaders,,gym,liberal,science,privacy,monthly,inactive,meek,long
+360,f,China,1,high school,innovator,physiological,reddit,2,interest,2,5,4,school,leaders,health,yoga_studio,protect,science,social,daily,active,happy,short
+361,f,Germany,2,undergrad,late_mature,physiological,social,2,adoption,1,1,5,school,influencers,coffee,yoga_studio,peace,science,privacy,monthly,active,happy,long
+362,m,Venezuala,1,graduate,early_mature,physiological,social,3,adoption,2,3,2,team,friends,,yoga_studio,protect,science,privacy,weekly,active,meek,impulsive
+363,f,China,5,graduate,late_mature,actualization,social,2,interest,1,4,3,team,leaders,,wellness_stores,liberal,religion,ease_of_use,monthly,inactive,angry,influenced
+364,m,Venezuala,4,graduate,early_mature,physiological,reddit,2,action,2,4,1,friends,influencers,proactive,gym,protect,science,social,monthly,active,angry,influenced
+365,m,USA,3,high school,early_adoptor,physiological,reddit,2,expansion,4,2,3,school,friends,proactive,health_forums,peace,religion,social,monthly,inactive,meek,influenced
+366,m,Spain,3,undergrad,laggard,safety,store,3,advocacy,5,1,5,school,influencers,coffee,yoga_studio,protect,religion,ease_of_use,daily,active,happy,influenced
+367,m,Venezuala,2,graduate,early_adoptor,esteem,social,1,adoption,1,1,2,team,influencers,proactive,yoga_studio,conservative,science,social,daily,inactive,angry,research
+368,m,Spain,4,high school,innovator,esteem,email,3,retention,5,3,4,team,influencers,health,yoga_studio,liberal,science,privacy,daily,active,none,long
+369,f,Venezuala,1,graduate,early_mature,safety,store,1,desire,4,3,5,school,leaders,coffee,yoga_studio,protect,religion,privacy,daily,active,sad,impulsive
+370,f,Canada,1,graduate,early_mature,safety,store,1,awareness,1,4,3,team,friends,,yoga_studio,self_care,science,social,monthly,active,sad,impulsive
+371,m,Australia,4,graduate,innovator,actualization,school,2,advocacy,1,5,3,team,influencers,,wellness_stores,self_care,science,social,weekly,active,sad,influenced
+372,f,Venezuala,2,high school,laggard,actualization,school,2,interest,3,1,4,school,influencers,proactive,health_forums,conservative,science,social,weekly,active,meek,impulsive
+373,f,Spain,3,graduate,early_adoptor,physiological,store,3,awareness,4,5,3,family,friends,,health_forums,conservative,science,ease_of_use,once,active,sad,research
+374,f,Spain,5,undergrad,innovator,esteem,store,1,desire,1,3,3,school,leaders,health,gym,peace,science,privacy,monthly,active,none,impulsive
+375,m,Spain,1,graduate,early_adoptor,actualization,school,2,justify,1,1,4,family,influencers,health,health_forums,protect,religion,ease_of_use,once,inactive,sad,impulsive
+376,f,Canada,5,undergrad,innovator,safety,email,1,action,3,1,2,friends,influencers,,yoga_studio,self_care,science,privacy,weekly,active,none,influenced
+377,m,Spain,2,graduate,early_mature,esteem,social,2,interest,5,2,5,friends,leaders,health,gym,liberal,religion,privacy,once,inactive,none,long
+378,f,USA,4,undergrad,innovator,physiological,email,2,justify,2,4,5,family,friends,proactive,health_forums,conservative,religion,ease_of_use,once,inactive,none,impulsive
+379,f,USA,4,undergrad,late_mature,actualization,reddit,3,retention,3,1,3,team,influencers,,health_forums,self_care,religion,privacy,weekly,inactive,sad,short
+380,f,Venezuala,1,graduate,late_mature,belonging,store,2,advocacy,5,3,3,team,influencers,coffee,health_forums,peace,religion,privacy,weekly,inactive,none,long
+381,f,Spain,1,high school,late_mature,esteem,email,2,advocacy,5,1,3,family,influencers,coffee,wellness_stores,protect,science,ease_of_use,weekly,inactive,meek,research
+382,m,Spain,5,graduate,laggard,actualization,email,3,desire,1,5,5,family,influencers,,yoga_studio,peace,religion,privacy,once,active,none,influenced
+383,f,Venezuala,4,graduate,late_mature,actualization,email,2,desire,1,2,3,school,influencers,health,wellness_stores,self_care,science,privacy,monthly,active,angry,short
+384,f,USA,2,graduate,innovator,actualization,store,2,awareness,4,4,1,family,leaders,proactive,wellness_stores,liberal,science,privacy,daily,active,meek,long
+385,m,USA,2,undergrad,laggard,physiological,social,3,advocacy,4,4,1,team,leaders,coffee,gym,peace,science,social,daily,inactive,happy,research
+386,m,China,1,high school,late_mature,physiological,school,3,adoption,4,3,4,school,friends,coffee,health_forums,liberal,religion,privacy,daily,active,none,impulsive
+387,m,Spain,1,high school,innovator,belonging,reddit,3,interest,3,2,2,school,leaders,proactive,wellness_stores,liberal,religion,social,monthly,inactive,angry,long
+388,m,USA,5,graduate,laggard,physiological,social,1,desire,1,3,1,family,influencers,coffee,gym,self_care,science,social,weekly,active,none,impulsive
+389,m,Spain,5,undergrad,early_mature,safety,social,3,usage,5,1,2,friends,friends,coffee,wellness_stores,protect,religion,ease_of_use,weekly,active,meek,influenced
+390,m,Canada,4,high school,early_adoptor,safety,school,3,advocacy,2,4,5,school,leaders,,health_forums,conservative,religion,social,weekly,active,meek,long
+391,f,Australia,4,high school,late_mature,actualization,reddit,3,usage,2,5,1,friends,leaders,health,wellness_stores,peace,science,ease_of_use,daily,active,none,impulsive
+392,f,Germany,1,graduate,early_adoptor,belonging,social,1,usage,3,3,5,school,friends,proactive,yoga_studio,conservative,religion,ease_of_use,weekly,inactive,angry,impulsive
+393,f,Germany,5,graduate,late_mature,physiological,school,2,action,3,2,2,family,influencers,health,yoga_studio,liberal,science,ease_of_use,once,active,none,research
+394,f,Germany,3,graduate,laggard,actualization,reddit,2,retention,3,4,3,family,leaders,health,gym,peace,science,ease_of_use,daily,inactive,sad,research
+395,m,Venezuala,3,high school,laggard,esteem,email,3,action,2,3,2,team,leaders,coffee,yoga_studio,self_care,religion,social,daily,active,meek,short
+396,m,Canada,2,high school,early_mature,actualization,school,1,desire,1,1,1,family,leaders,coffee,yoga_studio,liberal,religion,social,weekly,inactive,meek,research
+397,f,Australia,4,high school,early_mature,safety,social,3,justify,4,5,1,team,leaders,health,wellness_stores,liberal,science,ease_of_use,monthly,active,meek,short
+398,f,China,1,graduate,innovator,actualization,social,2,action,2,2,4,friends,leaders,coffee,health_forums,liberal,science,ease_of_use,weekly,active,angry,short
+399,f,China,5,undergrad,early_mature,actualization,store,1,action,3,5,2,friends,friends,coffee,yoga_studio,liberal,science,privacy,once,active,sad,short
+400,m,Venezuala,5,undergrad,late_mature,safety,school,2,interest,2,1,5,family,influencers,coffee,health_forums,liberal,science,social,weekly,active,none,influenced
+401,m,USA,1,high school,late_mature,physiological,store,1,retention,1,5,4,team,leaders,proactive,yoga_studio,protect,religion,social,daily,inactive,happy,influenced
+402,m,Australia,3,high school,early_mature,actualization,email,1,desire,3,1,4,friends,friends,coffee,health_forums,self_care,science,privacy,once,inactive,meek,research
+403,m,China,3,high school,early_adoptor,physiological,email,1,justify,3,5,4,team,friends,coffee,wellness_stores,liberal,religion,ease_of_use,weekly,active,sad,impulsive
+404,f,Australia,5,undergrad,late_mature,actualization,store,1,awareness,4,4,5,friends,influencers,health,gym,conservative,science,social,monthly,active,angry,long
+405,m,China,5,graduate,early_adoptor,physiological,reddit,2,adoption,4,1,1,school,influencers,health,yoga_studio,liberal,science,ease_of_use,once,active,meek,long
+406,f,Germany,2,undergrad,early_adoptor,physiological,store,1,adoption,3,3,4,family,leaders,,health_forums,self_care,religion,privacy,monthly,inactive,none,long
+407,f,USA,1,undergrad,innovator,esteem,reddit,1,awareness,1,3,4,family,influencers,,health_forums,self_care,science,ease_of_use,weekly,inactive,happy,impulsive
+408,m,Spain,5,graduate,late_mature,safety,reddit,2,advocacy,4,4,3,school,leaders,proactive,yoga_studio,peace,religion,ease_of_use,once,active,none,influenced
+409,m,Germany,4,graduate,late_mature,esteem,social,3,adoption,1,4,4,friends,influencers,,health_forums,self_care,science,privacy,monthly,active,angry,research
+410,f,Germany,2,graduate,early_mature,safety,social,3,retention,1,3,3,school,friends,health,wellness_stores,liberal,religion,social,once,inactive,happy,short
+411,f,China,2,high school,early_adoptor,safety,email,2,justify,2,4,2,school,friends,health,wellness_stores,peace,science,privacy,weekly,active,sad,impulsive
+412,m,Germany,5,graduate,innovator,actualization,reddit,1,usage,2,2,5,team,leaders,health,health_forums,liberal,science,social,monthly,active,meek,research
+413,f,USA,4,undergrad,early_mature,actualization,reddit,1,desire,1,5,2,friends,friends,,yoga_studio,conservative,science,social,once,active,happy,influenced
+414,m,China,5,high school,innovator,esteem,store,1,usage,1,5,3,school,friends,,health_forums,protect,religion,ease_of_use,once,active,sad,impulsive
+415,m,Canada,2,graduate,innovator,actualization,email,1,interest,4,3,1,friends,leaders,health,yoga_studio,peace,religion,privacy,daily,inactive,angry,impulsive
+416,f,Australia,2,graduate,early_adoptor,actualization,email,3,interest,4,3,4,school,leaders,health,health_forums,protect,science,ease_of_use,daily,inactive,none,research
+417,m,China,3,undergrad,laggard,actualization,social,2,retention,2,4,5,school,leaders,health,health_forums,peace,religion,social,monthly,inactive,sad,long
+418,m,USA,1,undergrad,early_mature,esteem,reddit,2,interest,5,5,5,friends,friends,health,wellness_stores,peace,science,ease_of_use,once,inactive,angry,research
+419,m,Germany,3,graduate,innovator,physiological,reddit,3,usage,4,1,2,family,influencers,proactive,gym,peace,science,ease_of_use,daily,inactive,none,research
+420,m,Venezuala,4,graduate,early_adoptor,safety,school,1,expansion,2,2,4,family,leaders,coffee,gym,peace,religion,social,weekly,inactive,sad,impulsive
+421,m,Germany,1,high school,laggard,safety,email,1,usage,3,1,2,team,influencers,coffee,wellness_stores,conservative,science,ease_of_use,weekly,inactive,none,short
+422,f,Germany,3,undergrad,late_mature,belonging,reddit,2,adoption,2,3,1,team,friends,,gym,protect,science,privacy,once,active,sad,research
+423,m,Germany,4,undergrad,early_mature,belonging,email,1,adoption,5,2,3,family,influencers,,gym,liberal,religion,ease_of_use,monthly,inactive,none,impulsive
+424,f,Australia,2,high school,laggard,physiological,reddit,2,awareness,2,1,1,family,influencers,health,yoga_studio,self_care,science,social,monthly,inactive,angry,research
+425,m,Venezuala,4,high school,early_mature,belonging,social,2,interest,4,4,4,team,leaders,,gym,protect,religion,ease_of_use,weekly,active,meek,impulsive
+426,m,USA,4,high school,early_adoptor,belonging,store,3,adoption,5,5,3,friends,influencers,proactive,gym,protect,science,social,once,active,happy,impulsive
+427,m,Germany,5,undergrad,early_mature,actualization,reddit,1,action,1,1,5,family,friends,proactive,yoga_studio,peace,religion,ease_of_use,monthly,active,sad,research
+428,f,Canada,2,undergrad,early_adoptor,actualization,reddit,2,desire,3,4,2,school,leaders,health,health_forums,conservative,science,social,weekly,active,angry,research
+429,m,Spain,1,high school,late_mature,belonging,school,3,desire,1,1,5,friends,leaders,coffee,yoga_studio,self_care,religion,ease_of_use,daily,active,happy,influenced
+430,m,Spain,1,graduate,innovator,physiological,school,3,interest,1,5,2,family,leaders,,health_forums,protect,science,social,once,inactive,angry,short
+431,m,Germany,5,high school,late_mature,belonging,store,3,interest,2,5,3,friends,influencers,,gym,conservative,religion,social,daily,inactive,angry,long
+432,f,USA,1,undergrad,early_adoptor,physiological,social,2,interest,5,2,1,school,influencers,proactive,wellness_stores,peace,religion,privacy,daily,active,angry,research
+433,m,Canada,3,graduate,early_mature,esteem,store,1,justify,2,2,5,family,influencers,coffee,wellness_stores,liberal,science,privacy,daily,active,none,impulsive
+434,f,Canada,2,high school,late_mature,belonging,social,2,expansion,4,3,4,school,influencers,coffee,gym,self_care,religion,social,weekly,inactive,meek,long
+435,f,USA,4,high school,late_mature,physiological,email,2,expansion,1,2,4,school,influencers,,health_forums,protect,science,ease_of_use,weekly,inactive,none,research
+436,m,Australia,3,graduate,innovator,esteem,store,2,desire,5,4,4,family,influencers,health,gym,conservative,science,social,weekly,active,meek,long
+437,f,China,3,graduate,laggard,actualization,store,1,adoption,5,3,1,friends,influencers,,gym,conservative,science,privacy,daily,inactive,sad,short
+438,f,Australia,3,high school,early_mature,belonging,store,2,adoption,1,5,1,friends,leaders,coffee,wellness_stores,peace,science,social,monthly,active,happy,research
+439,m,China,2,graduate,early_mature,esteem,school,1,interest,5,2,2,school,leaders,health,yoga_studio,peace,science,social,once,active,happy,short
+440,f,Australia,2,graduate,innovator,esteem,store,2,awareness,1,2,5,family,friends,,gym,peace,religion,social,once,inactive,happy,impulsive
+441,m,Australia,4,high school,innovator,physiological,social,3,awareness,3,5,1,school,leaders,,gym,peace,religion,ease_of_use,weekly,inactive,sad,short
+442,f,Spain,4,high school,late_mature,belonging,store,2,interest,5,5,3,school,friends,,gym,protect,religion,privacy,daily,inactive,happy,research
+443,m,Venezuala,2,high school,early_adoptor,actualization,reddit,3,interest,4,3,1,friends,influencers,coffee,health_forums,self_care,science,ease_of_use,monthly,active,sad,long
+444,m,Venezuala,1,graduate,early_adoptor,actualization,store,1,retention,3,1,5,school,leaders,proactive,health_forums,peace,religion,social,daily,active,happy,impulsive
+445,f,USA,2,undergrad,early_mature,physiological,reddit,1,advocacy,2,4,5,family,friends,,wellness_stores,self_care,science,privacy,monthly,inactive,none,short
+446,m,Venezuala,4,undergrad,late_mature,physiological,email,1,justify,5,3,3,family,friends,,yoga_studio,conservative,science,privacy,weekly,active,angry,influenced
+447,f,Venezuala,1,undergrad,laggard,actualization,store,1,action,5,2,1,school,influencers,proactive,wellness_stores,peace,science,ease_of_use,daily,active,none,long
+448,f,Venezuala,1,undergrad,innovator,belonging,store,3,desire,4,4,2,family,friends,,health_forums,peace,religion,social,weekly,inactive,meek,research
+449,m,Australia,2,undergrad,innovator,physiological,email,1,expansion,2,2,2,family,friends,health,wellness_stores,self_care,religion,social,daily,inactive,happy,long
+450,f,Australia,4,graduate,early_adoptor,actualization,reddit,3,desire,3,5,3,family,friends,,wellness_stores,self_care,religion,social,once,active,meek,influenced
+451,m,Germany,1,graduate,late_mature,esteem,reddit,1,interest,5,4,1,team,leaders,proactive,gym,protect,religion,privacy,once,active,sad,short
+452,m,USA,3,graduate,early_mature,belonging,school,3,desire,2,4,5,friends,influencers,,yoga_studio,conservative,religion,privacy,daily,active,angry,short
+453,f,China,4,high school,early_mature,physiological,email,2,desire,4,4,2,team,leaders,proactive,gym,conservative,science,social,once,active,happy,research
+454,m,Spain,2,graduate,early_mature,safety,reddit,2,advocacy,4,3,1,family,leaders,coffee,gym,conservative,science,social,weekly,inactive,meek,influenced
+455,m,Venezuala,2,undergrad,early_mature,physiological,reddit,2,interest,3,5,4,team,influencers,health,health_forums,protect,religion,ease_of_use,weekly,active,angry,impulsive
+456,m,Australia,5,high school,laggard,safety,email,3,retention,1,4,4,school,leaders,,health_forums,peace,religion,privacy,once,active,meek,research
+457,m,Canada,2,graduate,early_adoptor,safety,store,3,adoption,2,5,4,family,friends,coffee,gym,self_care,science,privacy,monthly,active,happy,impulsive
+458,m,Australia,3,undergrad,early_mature,actualization,email,3,awareness,3,1,2,team,influencers,proactive,health_forums,peace,religion,privacy,weekly,inactive,none,impulsive
+459,m,Canada,2,graduate,late_mature,safety,social,1,retention,5,4,5,team,leaders,health,gym,self_care,religion,ease_of_use,monthly,inactive,happy,short
+460,m,Canada,4,undergrad,early_adoptor,esteem,store,1,interest,1,4,3,team,friends,,wellness_stores,protect,religion,privacy,weekly,active,happy,short
+461,m,Australia,1,undergrad,late_mature,belonging,store,2,adoption,4,2,2,team,friends,health,health_forums,self_care,science,social,weekly,inactive,sad,long
+462,f,Canada,1,undergrad,early_adoptor,safety,email,1,usage,1,2,2,friends,friends,coffee,yoga_studio,liberal,science,ease_of_use,once,active,angry,influenced
+463,m,USA,1,high school,innovator,belonging,store,3,desire,4,1,2,friends,friends,health,gym,liberal,science,ease_of_use,once,active,meek,influenced
+464,f,Canada,1,graduate,innovator,safety,email,3,retention,2,5,5,family,leaders,health,wellness_stores,liberal,science,ease_of_use,daily,inactive,angry,short
+465,f,USA,3,graduate,innovator,physiological,store,1,retention,3,5,4,friends,leaders,health,health_forums,peace,religion,social,monthly,active,angry,influenced
+466,f,Canada,3,undergrad,laggard,actualization,reddit,3,interest,3,3,1,school,friends,,wellness_stores,self_care,science,ease_of_use,monthly,inactive,angry,impulsive
+467,m,USA,4,graduate,early_mature,belonging,store,1,usage,1,3,1,family,leaders,,health_forums,conservative,science,privacy,monthly,active,sad,long
+468,m,China,3,high school,early_adoptor,actualization,store,2,usage,3,3,2,school,leaders,proactive,yoga_studio,protect,science,social,monthly,inactive,angry,impulsive
+469,f,Spain,1,high school,early_mature,belonging,reddit,1,usage,3,2,2,family,leaders,,gym,peace,religion,social,monthly,active,angry,long
+470,f,Germany,1,high school,innovator,esteem,store,3,adoption,3,5,5,team,influencers,,wellness_stores,peace,science,ease_of_use,once,active,happy,impulsive
+471,f,Spain,3,undergrad,early_adoptor,physiological,store,2,adoption,4,2,2,team,friends,health,wellness_stores,conservative,science,ease_of_use,daily,inactive,sad,long
+472,f,USA,2,high school,innovator,esteem,store,3,justify,3,4,3,friends,influencers,,gym,liberal,science,social,monthly,inactive,none,influenced
+473,m,Canada,3,high school,innovator,safety,reddit,3,action,1,4,5,team,leaders,,health_forums,protect,science,privacy,monthly,inactive,sad,impulsive
+474,f,Germany,3,undergrad,early_adoptor,physiological,social,3,interest,5,2,2,friends,friends,health,yoga_studio,peace,religion,privacy,once,active,none,influenced
+475,m,China,1,high school,late_mature,physiological,email,3,desire,1,2,5,friends,influencers,coffee,wellness_stores,self_care,science,privacy,daily,inactive,angry,research
+476,m,Canada,5,graduate,early_mature,belonging,email,1,desire,3,2,4,family,influencers,,gym,liberal,science,privacy,daily,active,angry,long
+477,m,Australia,1,high school,early_adoptor,physiological,store,2,awareness,5,5,4,school,influencers,proactive,wellness_stores,liberal,science,ease_of_use,monthly,inactive,angry,research
+478,f,USA,3,graduate,innovator,safety,school,2,action,2,4,2,school,friends,,wellness_stores,protect,science,privacy,daily,active,angry,short
+479,f,Germany,4,high school,early_adoptor,esteem,store,3,retention,4,5,5,team,friends,coffee,health_forums,liberal,religion,privacy,once,inactive,meek,influenced
+480,f,Spain,1,high school,laggard,physiological,store,1,justify,4,5,3,family,friends,health,gym,peace,science,social,daily,active,angry,short
+481,f,Spain,2,undergrad,innovator,belonging,social,3,awareness,2,1,4,school,leaders,coffee,gym,conservative,religion,social,daily,inactive,sad,long
+482,f,USA,5,graduate,late_mature,safety,social,1,retention,5,4,3,school,leaders,health,gym,protect,science,ease_of_use,monthly,active,angry,long
+483,f,Spain,1,high school,early_mature,esteem,email,2,awareness,2,4,5,team,leaders,coffee,wellness_stores,self_care,religion,social,monthly,active,none,long
+484,m,Germany,3,undergrad,early_adoptor,actualization,reddit,1,action,4,4,3,friends,friends,proactive,gym,protect,religion,social,daily,inactive,angry,long
+485,f,Spain,2,high school,innovator,safety,email,1,retention,2,1,4,friends,friends,health,health_forums,conservative,science,privacy,weekly,inactive,meek,short
+486,m,Germany,1,graduate,laggard,esteem,reddit,3,justify,3,4,4,team,friends,proactive,gym,self_care,science,ease_of_use,daily,active,meek,influenced
+487,m,USA,2,undergrad,innovator,physiological,email,1,expansion,5,1,5,family,friends,coffee,wellness_stores,self_care,religion,privacy,daily,active,angry,long
+488,f,China,3,high school,early_adoptor,physiological,email,3,expansion,1,4,4,family,leaders,health,health_forums,liberal,religion,social,weekly,inactive,angry,long
+489,f,China,4,undergrad,laggard,physiological,store,2,retention,5,2,3,team,influencers,,health_forums,peace,science,ease_of_use,daily,active,happy,long
+490,f,Canada,1,graduate,early_adoptor,esteem,store,3,desire,5,5,5,friends,influencers,health,wellness_stores,peace,religion,privacy,weekly,inactive,happy,long
+491,f,Australia,5,high school,early_mature,belonging,social,2,expansion,5,4,5,team,influencers,health,health_forums,self_care,science,privacy,monthly,inactive,sad,long
+492,f,Canada,1,undergrad,early_adoptor,actualization,school,3,advocacy,2,1,3,school,leaders,proactive,wellness_stores,conservative,religion,ease_of_use,weekly,active,happy,research
+493,f,Spain,3,graduate,early_mature,actualization,school,2,retention,5,5,5,friends,leaders,coffee,wellness_stores,peace,religion,privacy,once,inactive,happy,long
+494,f,USA,2,graduate,laggard,actualization,social,3,retention,3,2,2,family,influencers,proactive,yoga_studio,peace,science,ease_of_use,monthly,inactive,none,impulsive
+495,m,USA,3,high school,laggard,actualization,school,2,justify,4,1,5,family,influencers,health,gym,conservative,religion,privacy,monthly,inactive,angry,impulsive
+496,m,Spain,5,high school,late_mature,actualization,email,3,desire,1,5,5,team,friends,health,health_forums,self_care,religion,ease_of_use,weekly,inactive,meek,research
+497,f,Spain,1,graduate,early_adoptor,esteem,reddit,2,adoption,2,3,4,school,friends,proactive,wellness_stores,conservative,science,social,daily,active,meek,impulsive
+498,f,Germany,5,undergrad,innovator,actualization,email,3,interest,1,3,1,friends,leaders,coffee,yoga_studio,peace,science,social,daily,inactive,angry,short
+499,f,China,4,high school,late_mature,safety,store,3,usage,4,2,1,friends,leaders,coffee,gym,liberal,religion,social,monthly,active,happy,short
+500,f,Venezuala,3,high school,early_mature,actualization,reddit,2,usage,1,1,3,family,friends,,health_forums,peace,science,privacy,monthly,inactive,none,impulsive
+501,m,USA,5,undergrad,laggard,actualization,reddit,2,desire,5,5,5,team,friends,proactive,gym,liberal,science,privacy,monthly,inactive,happy,long
+502,m,Canada,1,graduate,early_mature,belonging,reddit,2,adoption,1,4,4,family,friends,,health_forums,self_care,science,privacy,once,inactive,none,short
+503,f,USA,3,high school,early_adoptor,physiological,reddit,3,interest,2,1,5,team,influencers,proactive,yoga_studio,protect,religion,privacy,once,active,sad,influenced
+504,f,Australia,2,high school,early_mature,actualization,store,3,desire,1,4,4,friends,influencers,health,health_forums,conservative,religion,ease_of_use,once,active,sad,influenced
+505,m,USA,4,high school,innovator,esteem,reddit,1,retention,3,5,1,family,influencers,,wellness_stores,peace,science,privacy,once,active,meek,influenced
+506,f,Spain,4,graduate,innovator,belonging,social,1,retention,2,3,2,friends,friends,coffee,health_forums,conservative,science,social,weekly,active,sad,influenced
+507,m,Australia,4,undergrad,early_adoptor,safety,school,2,retention,5,5,4,team,friends,proactive,health_forums,peace,religion,privacy,once,inactive,none,short
+508,f,USA,5,graduate,early_adoptor,actualization,social,2,justify,3,3,2,family,influencers,,gym,conservative,science,privacy,once,inactive,angry,impulsive
+509,f,China,4,high school,early_mature,esteem,school,3,adoption,5,3,5,team,leaders,health,yoga_studio,self_care,religion,privacy,monthly,active,none,research
+510,f,Australia,1,undergrad,laggard,belonging,school,3,usage,5,4,5,team,influencers,health,wellness_stores,peace,religion,privacy,daily,active,angry,long
+511,f,Germany,1,high school,early_mature,safety,store,3,adoption,1,1,1,team,leaders,proactive,wellness_stores,liberal,religion,ease_of_use,once,inactive,happy,influenced
+512,m,Canada,1,high school,laggard,esteem,store,2,retention,5,5,3,school,leaders,proactive,yoga_studio,self_care,science,ease_of_use,daily,inactive,none,influenced
+513,f,Germany,1,high school,innovator,physiological,social,2,adoption,2,1,1,friends,leaders,coffee,yoga_studio,peace,religion,privacy,weekly,inactive,happy,influenced
+514,f,Venezuala,3,undergrad,late_mature,safety,social,1,usage,4,2,4,team,friends,health,wellness_stores,protect,religion,ease_of_use,daily,inactive,meek,long
+515,m,USA,2,undergrad,laggard,belonging,reddit,2,adoption,5,1,4,family,influencers,,health_forums,liberal,science,privacy,daily,active,meek,short
+516,f,USA,3,high school,innovator,safety,social,1,advocacy,5,5,4,friends,friends,health,wellness_stores,liberal,science,ease_of_use,weekly,inactive,angry,impulsive
+517,m,Germany,3,undergrad,early_mature,belonging,email,2,retention,5,4,2,friends,leaders,proactive,health_forums,peace,religion,social,daily,active,angry,impulsive
+518,f,Canada,1,high school,early_adoptor,physiological,store,1,desire,5,2,4,school,friends,proactive,health_forums,protect,religion,privacy,monthly,inactive,meek,long
+519,m,China,2,undergrad,early_mature,belonging,email,2,action,4,4,1,friends,influencers,coffee,wellness_stores,protect,science,privacy,once,inactive,happy,short
+520,f,Australia,3,high school,laggard,esteem,store,2,justify,2,2,1,team,influencers,,wellness_stores,peace,religion,ease_of_use,weekly,inactive,sad,impulsive
+521,m,Germany,1,graduate,early_mature,esteem,school,1,action,3,5,2,school,influencers,proactive,yoga_studio,liberal,science,ease_of_use,daily,inactive,angry,long
+522,f,USA,2,graduate,laggard,safety,reddit,1,expansion,5,4,5,team,leaders,coffee,yoga_studio,peace,science,privacy,daily,inactive,happy,impulsive
+523,m,Canada,4,graduate,late_mature,physiological,school,1,usage,4,1,1,family,leaders,health,yoga_studio,conservative,science,privacy,monthly,active,meek,influenced
+524,m,Venezuala,4,high school,innovator,physiological,email,3,desire,2,2,2,team,leaders,coffee,health_forums,liberal,science,social,once,active,none,long
+525,f,Spain,5,high school,late_mature,belonging,reddit,3,action,1,3,1,friends,leaders,,yoga_studio,conservative,religion,privacy,monthly,active,meek,impulsive
+526,m,Australia,4,graduate,early_mature,actualization,social,1,action,3,2,3,friends,leaders,health,yoga_studio,protect,religion,privacy,monthly,inactive,sad,short
+527,f,Spain,3,undergrad,late_mature,physiological,school,2,justify,4,4,2,team,influencers,health,wellness_stores,protect,religion,privacy,monthly,active,none,short
+528,f,Venezuala,3,high school,early_mature,safety,reddit,1,desire,1,5,1,team,friends,health,gym,liberal,religion,privacy,daily,inactive,angry,short
+529,f,Australia,4,high school,laggard,physiological,school,2,expansion,3,3,1,friends,friends,proactive,wellness_stores,liberal,science,ease_of_use,weekly,active,happy,short
+530,m,Australia,2,undergrad,laggard,esteem,reddit,3,justify,5,4,4,family,friends,health,yoga_studio,self_care,science,social,monthly,inactive,angry,long
+531,m,Australia,2,high school,laggard,belonging,store,1,advocacy,2,2,4,friends,friends,proactive,health_forums,liberal,science,ease_of_use,once,active,happy,short
+532,m,USA,5,graduate,innovator,physiological,email,3,expansion,1,1,2,family,influencers,,yoga_studio,protect,religion,privacy,daily,inactive,angry,long
+533,m,Germany,1,high school,early_mature,actualization,social,2,usage,5,5,4,friends,influencers,proactive,yoga_studio,protect,science,social,daily,active,angry,research
+534,f,Canada,3,high school,innovator,safety,social,2,usage,1,5,4,team,leaders,coffee,health_forums,liberal,science,ease_of_use,once,active,sad,influenced
+535,f,Australia,1,undergrad,innovator,safety,school,3,adoption,2,3,2,school,friends,proactive,wellness_stores,peace,religion,social,once,active,none,short
+536,m,USA,4,high school,late_mature,actualization,social,3,advocacy,1,5,2,team,influencers,coffee,health_forums,self_care,religion,privacy,monthly,active,meek,short
+537,f,Venezuala,3,undergrad,innovator,physiological,school,3,awareness,2,1,5,friends,leaders,proactive,wellness_stores,peace,religion,privacy,weekly,active,angry,short
+538,f,China,3,graduate,early_adoptor,esteem,social,3,usage,2,4,5,school,influencers,coffee,yoga_studio,peace,science,social,weekly,active,meek,long
+539,f,Germany,4,high school,late_mature,physiological,email,3,justify,4,4,1,friends,leaders,health,gym,conservative,science,privacy,once,active,none,long
+540,m,Australia,5,undergrad,early_adoptor,physiological,email,1,retention,3,2,3,family,friends,,health_forums,liberal,science,privacy,daily,active,happy,long
+541,m,USA,5,graduate,late_mature,physiological,school,1,awareness,2,4,4,team,friends,coffee,health_forums,self_care,science,ease_of_use,once,active,angry,influenced
+542,m,Venezuala,4,high school,late_mature,belonging,store,1,action,5,5,4,school,leaders,coffee,yoga_studio,conservative,religion,ease_of_use,daily,active,none,short
+543,m,USA,1,graduate,early_adoptor,physiological,store,3,retention,5,2,5,friends,friends,proactive,wellness_stores,protect,religion,social,once,inactive,sad,long
+544,f,Venezuala,3,undergrad,innovator,safety,store,1,interest,5,2,1,school,leaders,,yoga_studio,conservative,religion,privacy,daily,active,happy,short
+545,f,Venezuala,4,graduate,early_adoptor,actualization,email,2,usage,1,5,5,school,friends,,yoga_studio,liberal,religion,ease_of_use,once,active,sad,influenced
+546,f,Venezuala,5,undergrad,late_mature,safety,store,2,adoption,4,1,3,family,leaders,health,health_forums,conservative,science,ease_of_use,monthly,inactive,happy,influenced
+547,f,Canada,5,graduate,late_mature,safety,school,2,justify,2,1,4,team,leaders,health,gym,conservative,science,privacy,monthly,active,angry,impulsive
+548,m,China,3,graduate,innovator,esteem,school,3,expansion,3,5,3,school,friends,health,health_forums,conservative,science,privacy,once,inactive,none,long
+549,m,USA,3,undergrad,laggard,physiological,school,1,interest,5,4,4,family,leaders,coffee,yoga_studio,conservative,science,social,monthly,active,meek,impulsive
+550,f,Canada,3,graduate,laggard,esteem,reddit,2,desire,2,3,3,friends,influencers,proactive,gym,conservative,religion,ease_of_use,daily,active,happy,long
+551,f,Canada,1,graduate,late_mature,actualization,school,2,usage,5,4,4,family,friends,proactive,health_forums,self_care,religion,social,daily,inactive,angry,impulsive
+552,f,Canada,4,high school,laggard,esteem,school,3,interest,1,1,5,team,friends,,health_forums,conservative,science,social,weekly,active,sad,influenced
+553,m,USA,4,graduate,early_adoptor,actualization,school,1,justify,3,2,4,family,friends,health,gym,liberal,science,privacy,weekly,active,sad,impulsive
+554,m,China,1,graduate,innovator,belonging,social,3,interest,4,5,5,school,leaders,health,gym,protect,religion,ease_of_use,daily,inactive,happy,research
+555,f,Australia,3,graduate,laggard,physiological,email,2,interest,2,5,4,school,influencers,proactive,health_forums,liberal,religion,ease_of_use,monthly,inactive,meek,research
+556,f,Canada,2,undergrad,laggard,esteem,store,3,adoption,3,1,2,team,leaders,,wellness_stores,conservative,science,social,monthly,active,meek,short
+557,f,Spain,3,high school,late_mature,safety,email,1,justify,5,3,3,family,influencers,proactive,gym,liberal,science,privacy,monthly,inactive,meek,research
+558,m,USA,1,high school,early_adoptor,belonging,school,2,desire,2,3,4,team,influencers,proactive,yoga_studio,conservative,science,privacy,monthly,active,angry,influenced
+559,f,Venezuala,5,undergrad,innovator,actualization,school,1,desire,1,2,4,family,leaders,coffee,wellness_stores,liberal,science,ease_of_use,once,active,none,long
+560,f,China,5,undergrad,early_adoptor,safety,social,2,retention,3,2,1,school,influencers,coffee,gym,protect,religion,social,weekly,active,angry,short
+561,f,Australia,2,graduate,innovator,belonging,email,3,advocacy,1,1,5,friends,friends,coffee,gym,peace,science,privacy,daily,inactive,sad,short
+562,f,USA,1,graduate,late_mature,safety,reddit,1,adoption,2,4,1,team,influencers,coffee,health_forums,peace,religion,ease_of_use,weekly,active,happy,influenced
+563,m,Australia,5,high school,laggard,belonging,reddit,3,retention,2,2,3,friends,leaders,proactive,gym,peace,science,social,daily,inactive,happy,research
+564,m,Spain,2,graduate,early_adoptor,actualization,email,3,desire,4,2,1,family,influencers,health,yoga_studio,self_care,science,ease_of_use,once,inactive,happy,long
+565,f,China,2,graduate,late_mature,actualization,store,1,awareness,3,5,2,school,friends,coffee,yoga_studio,self_care,religion,ease_of_use,once,active,angry,short
+566,f,Canada,3,graduate,early_adoptor,safety,reddit,2,retention,3,4,1,team,friends,,wellness_stores,conservative,science,privacy,weekly,active,happy,long
+567,m,Spain,5,undergrad,laggard,physiological,email,1,advocacy,3,2,1,family,influencers,health,health_forums,liberal,religion,social,weekly,inactive,sad,long
+568,f,China,3,undergrad,laggard,safety,social,1,awareness,4,5,3,family,friends,,wellness_stores,liberal,science,privacy,daily,active,angry,influenced
+569,m,Spain,5,high school,laggard,safety,school,2,interest,1,3,1,friends,influencers,health,health_forums,self_care,religion,ease_of_use,monthly,active,happy,long
+570,f,Spain,1,undergrad,innovator,actualization,school,2,justify,4,3,2,team,friends,health,yoga_studio,protect,science,social,weekly,active,happy,influenced
+571,f,Germany,2,undergrad,laggard,actualization,social,3,justify,4,4,3,friends,friends,proactive,gym,protect,science,social,monthly,inactive,none,long
+572,f,China,2,high school,early_adoptor,actualization,store,3,usage,4,3,1,school,leaders,coffee,gym,conservative,religion,social,monthly,active,none,short
+573,m,Spain,2,graduate,late_mature,esteem,school,2,justify,4,2,1,school,leaders,,yoga_studio,conservative,religion,ease_of_use,once,inactive,sad,research
+574,f,China,3,graduate,innovator,safety,store,2,advocacy,2,4,2,school,influencers,coffee,health_forums,protect,religion,ease_of_use,weekly,inactive,angry,long
+575,m,Australia,2,high school,laggard,esteem,email,1,advocacy,2,2,5,family,friends,coffee,health_forums,protect,religion,ease_of_use,monthly,inactive,angry,long
+576,m,China,4,high school,late_mature,belonging,email,1,adoption,2,1,2,team,friends,,wellness_stores,liberal,science,ease_of_use,daily,active,none,impulsive
+577,f,Spain,1,high school,laggard,esteem,email,3,justify,5,4,4,school,leaders,health,health_forums,protect,religion,privacy,monthly,inactive,meek,short
+578,f,Australia,1,graduate,early_adoptor,esteem,school,2,adoption,1,2,4,team,leaders,proactive,health_forums,protect,science,social,monthly,active,none,research
+579,f,China,4,high school,laggard,physiological,school,3,expansion,1,5,3,family,influencers,,health_forums,self_care,religion,ease_of_use,monthly,active,happy,short
+580,m,Spain,3,high school,early_mature,esteem,reddit,3,awareness,5,5,3,family,influencers,health,gym,self_care,religion,privacy,once,inactive,none,impulsive
+581,f,USA,1,undergrad,late_mature,safety,store,2,advocacy,3,4,5,school,influencers,proactive,gym,conservative,science,social,once,inactive,angry,influenced
+582,f,Spain,3,high school,innovator,physiological,reddit,2,awareness,5,5,1,family,friends,coffee,yoga_studio,liberal,science,privacy,monthly,active,angry,short
+583,m,Canada,3,high school,early_mature,belonging,school,2,adoption,2,3,5,team,friends,,wellness_stores,liberal,religion,privacy,daily,inactive,sad,impulsive
+584,m,Australia,5,graduate,innovator,actualization,school,2,retention,4,3,1,family,friends,,wellness_stores,peace,religion,social,weekly,inactive,none,long
+585,f,Canada,3,high school,early_mature,belonging,store,3,interest,4,4,1,team,friends,,gym,conservative,science,privacy,weekly,active,angry,impulsive
+586,f,Australia,2,high school,early_adoptor,actualization,store,1,adoption,4,4,5,family,influencers,health,wellness_stores,conservative,science,social,weekly,inactive,sad,research
+587,m,Venezuala,2,high school,early_adoptor,actualization,reddit,2,justify,2,2,5,team,leaders,health,yoga_studio,self_care,religion,privacy,monthly,active,angry,influenced
+588,m,Spain,5,graduate,laggard,esteem,reddit,1,interest,3,3,2,team,leaders,,yoga_studio,peace,science,social,monthly,active,meek,research
+589,m,Spain,1,high school,late_mature,esteem,reddit,1,adoption,5,4,4,friends,influencers,coffee,health_forums,liberal,science,ease_of_use,once,inactive,sad,influenced
+590,f,Venezuala,1,high school,early_adoptor,physiological,email,2,expansion,3,4,3,friends,influencers,coffee,gym,conservative,science,privacy,weekly,active,sad,impulsive
+591,f,Australia,2,high school,innovator,esteem,store,2,action,4,2,2,team,friends,,gym,protect,religion,privacy,monthly,inactive,sad,long
+592,m,Australia,4,high school,early_adoptor,physiological,reddit,2,justify,2,3,1,team,leaders,health,yoga_studio,peace,science,social,daily,active,meek,research
+593,m,Spain,4,graduate,early_mature,belonging,email,2,advocacy,4,3,2,family,influencers,health,yoga_studio,conservative,science,social,weekly,active,sad,long
+594,m,Canada,4,high school,laggard,safety,social,2,advocacy,1,4,1,friends,leaders,,yoga_studio,peace,science,privacy,weekly,inactive,happy,long
+595,f,Spain,4,high school,innovator,physiological,school,2,justify,5,2,3,family,friends,,wellness_stores,peace,religion,ease_of_use,weekly,active,meek,short
+596,f,Canada,2,graduate,early_adoptor,esteem,store,2,justify,4,3,2,friends,friends,coffee,health_forums,self_care,religion,privacy,once,active,angry,research
+597,m,Canada,1,graduate,late_mature,esteem,email,2,action,4,4,1,team,leaders,coffee,gym,liberal,science,privacy,monthly,active,happy,impulsive
+598,m,Canada,1,undergrad,innovator,safety,social,3,awareness,3,2,5,team,friends,proactive,wellness_stores,protect,religion,ease_of_use,weekly,active,none,research
+599,m,Venezuala,1,high school,late_mature,belonging,school,1,usage,2,5,3,family,influencers,,wellness_stores,protect,religion,social,once,active,meek,influenced
+600,f,USA,4,undergrad,laggard,actualization,email,1,awareness,5,4,5,school,friends,proactive,yoga_studio,conservative,science,ease_of_use,weekly,inactive,angry,short
+601,f,Canada,2,graduate,early_adoptor,belonging,reddit,2,adoption,2,2,3,school,influencers,coffee,health_forums,peace,religion,social,monthly,active,meek,impulsive
+602,m,Venezuala,2,high school,innovator,esteem,school,3,interest,3,3,2,friends,influencers,health,wellness_stores,peace,religion,social,monthly,active,happy,influenced
+603,f,USA,3,undergrad,innovator,actualization,social,2,action,4,3,2,friends,friends,,health_forums,protect,religion,privacy,once,active,angry,long
+604,m,Spain,2,graduate,late_mature,physiological,store,1,awareness,1,1,5,family,leaders,health,wellness_stores,conservative,science,social,monthly,active,happy,influenced
+605,f,Spain,1,undergrad,early_mature,physiological,email,1,awareness,1,3,2,team,friends,coffee,wellness_stores,self_care,science,privacy,daily,active,meek,long
+606,f,China,4,undergrad,laggard,actualization,school,2,adoption,5,5,2,team,friends,health,wellness_stores,liberal,religion,privacy,weekly,active,angry,research
+607,f,Spain,2,undergrad,early_adoptor,esteem,store,3,adoption,2,5,1,friends,influencers,proactive,health_forums,self_care,science,privacy,weekly,inactive,none,research
+608,m,Spain,1,undergrad,innovator,esteem,reddit,1,adoption,2,4,5,school,friends,,yoga_studio,self_care,religion,social,weekly,inactive,sad,influenced
+609,f,Germany,4,high school,early_adoptor,physiological,school,1,justify,1,2,1,friends,influencers,proactive,wellness_stores,liberal,science,ease_of_use,monthly,active,none,long
+610,m,Spain,1,undergrad,laggard,belonging,reddit,2,advocacy,1,4,2,team,influencers,coffee,yoga_studio,conservative,religion,social,weekly,inactive,none,short
+611,m,Australia,2,undergrad,laggard,safety,social,3,justify,3,4,2,friends,leaders,proactive,wellness_stores,liberal,science,privacy,once,active,happy,long
+612,f,Venezuala,2,graduate,innovator,belonging,store,2,usage,5,5,5,school,influencers,,wellness_stores,conservative,science,social,daily,active,angry,impulsive
+613,m,Venezuala,4,graduate,late_mature,physiological,reddit,2,awareness,1,4,5,school,leaders,proactive,health_forums,peace,religion,ease_of_use,once,active,sad,impulsive
+614,m,Germany,5,graduate,late_mature,safety,email,3,retention,2,5,5,school,influencers,proactive,yoga_studio,liberal,religion,ease_of_use,monthly,active,happy,impulsive
+615,m,Spain,2,undergrad,laggard,esteem,reddit,2,retention,4,3,2,friends,leaders,,health_forums,conservative,science,privacy,weekly,inactive,meek,influenced
+616,m,China,5,undergrad,early_mature,esteem,email,3,advocacy,2,4,4,school,influencers,proactive,yoga_studio,self_care,science,privacy,weekly,inactive,happy,influenced
+617,f,USA,3,undergrad,early_adoptor,belonging,social,3,interest,4,4,1,team,leaders,coffee,wellness_stores,peace,science,social,weekly,active,angry,research
+618,f,USA,3,high school,early_mature,actualization,store,1,advocacy,2,3,1,friends,leaders,,yoga_studio,protect,religion,privacy,once,inactive,sad,impulsive
+619,m,Australia,4,undergrad,laggard,safety,social,1,desire,4,4,3,school,friends,proactive,wellness_stores,liberal,science,privacy,once,inactive,meek,short
+620,f,USA,5,high school,early_mature,physiological,social,3,interest,2,5,5,school,leaders,,wellness_stores,peace,science,privacy,weekly,active,meek,short
+621,f,Australia,2,graduate,early_mature,physiological,reddit,1,usage,5,4,5,team,leaders,,yoga_studio,protect,religion,privacy,monthly,inactive,none,influenced
+622,f,Canada,5,high school,early_mature,physiological,reddit,2,advocacy,3,1,3,family,leaders,,health_forums,self_care,science,social,weekly,active,none,research
+623,f,USA,2,high school,laggard,actualization,school,2,advocacy,5,5,4,family,influencers,proactive,yoga_studio,conservative,religion,social,once,inactive,angry,long
+624,m,Australia,4,undergrad,innovator,safety,reddit,1,awareness,2,5,2,friends,friends,health,health_forums,protect,religion,privacy,once,inactive,angry,research
+625,f,Spain,4,high school,early_mature,safety,social,2,justify,4,2,1,school,friends,coffee,yoga_studio,self_care,religion,ease_of_use,weekly,active,happy,influenced
+626,m,Germany,2,undergrad,late_mature,safety,store,1,awareness,1,1,2,friends,friends,health,health_forums,liberal,religion,ease_of_use,once,inactive,angry,impulsive
+627,m,Germany,1,undergrad,early_adoptor,safety,reddit,1,advocacy,3,5,1,school,leaders,coffee,wellness_stores,self_care,science,privacy,daily,inactive,angry,short
+628,f,Spain,2,graduate,laggard,esteem,email,1,awareness,4,5,3,team,leaders,coffee,wellness_stores,liberal,science,ease_of_use,weekly,inactive,sad,long
+629,f,Spain,3,high school,late_mature,esteem,store,1,expansion,1,4,4,friends,influencers,coffee,yoga_studio,protect,religion,social,monthly,inactive,meek,short
+630,m,Canada,4,graduate,early_adoptor,actualization,email,1,adoption,1,4,4,family,friends,coffee,gym,peace,science,privacy,daily,active,angry,influenced
+631,f,USA,2,graduate,innovator,actualization,social,3,advocacy,4,4,5,family,friends,coffee,yoga_studio,protect,religion,ease_of_use,monthly,active,sad,influenced
+632,f,Australia,5,graduate,late_mature,actualization,email,3,expansion,1,1,3,friends,friends,health,health_forums,peace,science,privacy,weekly,active,happy,impulsive
+633,f,Venezuala,4,undergrad,early_adoptor,safety,school,3,expansion,2,4,5,team,friends,health,yoga_studio,self_care,science,privacy,monthly,inactive,meek,research
+634,f,USA,2,undergrad,innovator,belonging,email,2,usage,1,5,3,family,friends,health,wellness_stores,peace,science,social,monthly,active,meek,short
+635,m,Canada,1,high school,late_mature,physiological,reddit,2,adoption,3,3,1,team,influencers,,health_forums,liberal,religion,privacy,weekly,inactive,angry,long
+636,m,China,5,undergrad,innovator,actualization,school,1,justify,4,1,3,team,influencers,,wellness_stores,conservative,religion,social,daily,active,sad,impulsive
+637,m,Venezuala,3,high school,innovator,actualization,social,3,interest,5,5,3,team,leaders,,yoga_studio,protect,religion,social,daily,inactive,meek,impulsive
+638,f,China,2,graduate,early_mature,safety,social,2,usage,3,3,3,school,leaders,coffee,health_forums,protect,religion,social,once,active,happy,long
+639,f,Venezuala,2,high school,early_mature,esteem,email,2,adoption,3,4,2,team,friends,,gym,conservative,religion,ease_of_use,monthly,active,meek,short
+640,m,Canada,5,undergrad,laggard,safety,reddit,3,justify,2,4,3,family,friends,coffee,wellness_stores,self_care,science,privacy,once,inactive,sad,long
+641,m,Spain,5,undergrad,early_mature,esteem,email,2,action,4,5,4,family,friends,health,health_forums,protect,science,privacy,daily,inactive,happy,research
+642,m,Venezuala,5,graduate,late_mature,safety,reddit,3,interest,2,3,2,school,friends,,wellness_stores,peace,science,ease_of_use,once,active,sad,influenced
+643,f,Germany,3,high school,innovator,physiological,social,1,adoption,2,2,2,team,leaders,health,wellness_stores,liberal,science,privacy,weekly,inactive,happy,long
+644,f,Germany,5,graduate,innovator,physiological,social,2,justify,1,3,4,team,influencers,proactive,wellness_stores,protect,religion,ease_of_use,daily,inactive,meek,short
+645,m,USA,1,graduate,innovator,actualization,school,2,advocacy,2,4,1,team,leaders,proactive,yoga_studio,liberal,science,social,monthly,active,angry,impulsive
+646,m,Australia,5,high school,innovator,esteem,email,2,interest,3,2,4,family,influencers,,health_forums,self_care,religion,ease_of_use,monthly,inactive,meek,short
+647,m,Venezuala,1,high school,early_mature,esteem,email,3,awareness,4,3,3,team,friends,,gym,liberal,science,social,once,inactive,happy,short
+648,f,USA,5,graduate,early_adoptor,safety,email,2,action,1,5,5,school,friends,coffee,gym,conservative,science,ease_of_use,daily,active,meek,long
+649,f,Venezuala,1,high school,early_mature,actualization,store,2,retention,1,3,5,team,leaders,health,yoga_studio,protect,science,ease_of_use,daily,active,none,impulsive
+650,f,China,3,undergrad,innovator,safety,store,2,action,5,5,4,family,friends,coffee,yoga_studio,conservative,religion,privacy,weekly,active,meek,long
+651,f,Venezuala,3,graduate,laggard,safety,store,2,action,5,1,5,friends,influencers,coffee,wellness_stores,conservative,science,social,weekly,inactive,sad,long
+652,m,Canada,2,high school,innovator,actualization,reddit,1,advocacy,3,3,3,team,influencers,health,yoga_studio,self_care,religion,social,monthly,inactive,sad,research
+653,m,Australia,5,high school,innovator,physiological,school,3,adoption,3,1,1,friends,influencers,,health_forums,self_care,religion,ease_of_use,once,active,meek,influenced
+654,f,China,2,undergrad,laggard,physiological,reddit,3,adoption,5,2,5,school,friends,health,wellness_stores,self_care,religion,privacy,weekly,inactive,meek,short
+655,f,Venezuala,1,high school,late_mature,belonging,store,2,adoption,4,5,5,team,leaders,proactive,health_forums,protect,religion,privacy,monthly,inactive,angry,short
+656,m,Germany,4,graduate,early_adoptor,safety,reddit,1,justify,2,4,1,friends,influencers,proactive,yoga_studio,liberal,religion,privacy,monthly,inactive,meek,impulsive
+657,f,USA,5,high school,laggard,safety,social,1,advocacy,3,5,5,family,friends,health,wellness_stores,peace,science,privacy,once,inactive,sad,impulsive
+658,m,Canada,2,high school,innovator,physiological,social,2,adoption,1,2,1,school,influencers,coffee,health_forums,liberal,religion,social,daily,inactive,none,influenced
+659,m,Canada,5,undergrad,late_mature,safety,reddit,2,awareness,5,3,5,school,friends,health,gym,self_care,religion,ease_of_use,once,inactive,meek,influenced
+660,f,Germany,4,graduate,innovator,esteem,school,1,usage,3,4,3,school,influencers,coffee,yoga_studio,liberal,religion,ease_of_use,monthly,active,meek,short
+661,m,Australia,1,undergrad,innovator,esteem,reddit,3,desire,5,5,2,team,influencers,health,gym,liberal,religion,privacy,daily,inactive,angry,influenced
+662,m,Canada,2,undergrad,laggard,safety,school,2,expansion,1,2,3,friends,friends,proactive,health_forums,conservative,religion,ease_of_use,weekly,active,angry,research
+663,m,Australia,3,high school,early_adoptor,actualization,store,1,advocacy,3,4,2,school,friends,health,gym,peace,religion,ease_of_use,daily,inactive,angry,short
+664,m,Australia,1,graduate,early_adoptor,safety,social,2,interest,3,3,3,school,leaders,health,gym,liberal,religion,ease_of_use,once,inactive,sad,research
+665,f,Spain,4,undergrad,late_mature,physiological,store,3,expansion,4,1,3,team,friends,proactive,gym,liberal,religion,privacy,monthly,active,happy,long
+666,f,USA,3,high school,innovator,actualization,social,2,retention,3,1,1,school,leaders,coffee,health_forums,conservative,religion,privacy,monthly,active,meek,impulsive
+667,f,Spain,3,graduate,innovator,esteem,email,3,usage,2,1,5,school,influencers,coffee,health_forums,protect,religion,social,once,active,sad,research
+668,f,Venezuala,4,undergrad,laggard,actualization,reddit,2,usage,5,5,3,friends,friends,,wellness_stores,protect,religion,ease_of_use,daily,active,sad,long
+669,f,Venezuala,1,graduate,laggard,actualization,reddit,2,adoption,1,5,4,team,friends,health,health_forums,self_care,science,social,once,active,sad,impulsive
+670,m,China,3,graduate,innovator,belonging,store,3,justify,1,4,2,team,leaders,,health_forums,protect,science,ease_of_use,daily,active,meek,impulsive
+671,f,Venezuala,5,graduate,laggard,safety,school,2,awareness,2,3,2,team,friends,,gym,self_care,religion,social,daily,active,none,influenced
+672,f,Australia,3,undergrad,early_adoptor,esteem,store,1,retention,5,5,2,team,friends,,wellness_stores,self_care,science,privacy,monthly,active,meek,impulsive
+673,f,Germany,4,undergrad,early_adoptor,physiological,store,3,justify,3,4,5,team,leaders,,wellness_stores,self_care,science,social,daily,inactive,sad,impulsive
+674,f,Canada,1,undergrad,late_mature,esteem,store,3,adoption,4,4,1,school,leaders,,gym,protect,religion,social,weekly,inactive,meek,short
+675,f,Australia,5,undergrad,late_mature,esteem,email,3,usage,1,4,2,friends,influencers,health,wellness_stores,protect,science,privacy,daily,active,meek,short
+676,f,Germany,2,undergrad,late_mature,physiological,social,3,advocacy,1,2,1,team,friends,,wellness_stores,peace,science,social,monthly,active,meek,long
+677,f,Spain,5,undergrad,innovator,esteem,email,1,expansion,4,2,5,school,friends,proactive,gym,liberal,science,privacy,once,active,sad,long
+678,f,USA,3,high school,early_mature,belonging,social,2,desire,1,3,3,school,influencers,proactive,gym,protect,science,social,monthly,active,sad,impulsive
+679,f,USA,3,high school,late_mature,esteem,school,2,justify,3,2,1,friends,influencers,health,yoga_studio,protect,science,privacy,once,active,sad,long
+680,m,China,4,undergrad,early_mature,safety,email,2,retention,4,4,4,friends,influencers,health,health_forums,self_care,science,privacy,daily,active,none,long
+681,f,Australia,5,graduate,early_adoptor,esteem,store,1,awareness,1,3,5,school,influencers,,health_forums,peace,science,ease_of_use,daily,active,none,impulsive
+682,f,USA,2,undergrad,innovator,actualization,social,2,usage,1,3,4,friends,friends,,health_forums,protect,religion,ease_of_use,weekly,inactive,angry,long
+683,f,Venezuala,5,undergrad,early_adoptor,safety,email,2,expansion,3,2,5,friends,leaders,coffee,health_forums,liberal,science,ease_of_use,once,inactive,none,research
+684,f,Canada,2,high school,innovator,safety,school,2,adoption,1,2,4,team,influencers,coffee,gym,self_care,religion,ease_of_use,daily,inactive,none,short
+685,m,Spain,5,graduate,innovator,actualization,reddit,1,interest,1,5,5,school,influencers,coffee,wellness_stores,peace,religion,privacy,daily,inactive,none,influenced
+686,f,Germany,5,high school,early_adoptor,physiological,reddit,3,interest,2,3,5,team,friends,coffee,wellness_stores,protect,science,ease_of_use,weekly,active,none,long
+687,m,Spain,4,undergrad,early_adoptor,belonging,email,1,action,1,1,1,school,influencers,proactive,yoga_studio,conservative,science,privacy,once,inactive,sad,long
+688,m,Australia,3,high school,early_adoptor,actualization,reddit,3,interest,1,2,4,family,influencers,,gym,protect,religion,ease_of_use,weekly,active,happy,short
+689,m,Germany,2,undergrad,innovator,belonging,email,3,action,5,5,1,school,influencers,,health_forums,self_care,science,social,weekly,active,sad,impulsive
+690,f,Canada,1,undergrad,laggard,esteem,school,2,expansion,4,4,1,family,influencers,health,wellness_stores,protect,religion,privacy,weekly,inactive,meek,short
+691,m,Venezuala,2,graduate,laggard,safety,email,1,usage,4,2,2,school,friends,health,gym,peace,religion,social,daily,inactive,meek,short
+692,m,Australia,2,undergrad,laggard,physiological,store,1,retention,4,3,2,family,friends,health,yoga_studio,self_care,religion,privacy,daily,inactive,happy,impulsive
+693,f,Germany,5,undergrad,early_adoptor,physiological,email,3,expansion,4,4,1,friends,leaders,health,yoga_studio,self_care,science,ease_of_use,monthly,inactive,sad,influenced
+694,f,Venezuala,5,graduate,late_mature,physiological,school,1,awareness,5,4,1,team,leaders,health,wellness_stores,liberal,science,social,monthly,active,sad,long
+695,f,USA,3,graduate,laggard,physiological,school,2,awareness,1,1,3,team,influencers,,health_forums,peace,religion,social,monthly,active,none,research
+696,m,Canada,3,graduate,laggard,esteem,reddit,3,expansion,5,2,3,friends,influencers,proactive,gym,conservative,science,ease_of_use,weekly,active,meek,long
+697,f,Canada,5,undergrad,laggard,safety,email,1,desire,4,1,4,school,friends,proactive,wellness_stores,self_care,science,social,daily,inactive,meek,research
+698,f,Venezuala,1,graduate,late_mature,belonging,reddit,1,interest,4,1,5,team,friends,coffee,gym,protect,religion,social,daily,active,angry,long
+699,m,USA,1,graduate,early_adoptor,physiological,school,3,awareness,5,5,1,team,leaders,,health_forums,liberal,science,privacy,weekly,inactive,none,research
+700,m,Germany,3,high school,laggard,esteem,social,2,awareness,3,2,2,family,leaders,,yoga_studio,self_care,religion,social,monthly,inactive,meek,short
+701,f,USA,1,undergrad,innovator,esteem,store,2,expansion,2,2,5,school,influencers,,yoga_studio,self_care,science,ease_of_use,weekly,active,sad,long
+702,m,Australia,1,undergrad,early_mature,physiological,email,2,advocacy,4,2,3,team,influencers,health,wellness_stores,protect,science,social,once,inactive,angry,influenced
+703,f,Australia,2,high school,late_mature,belonging,social,3,interest,1,3,5,friends,influencers,proactive,gym,conservative,religion,ease_of_use,monthly,active,angry,research
+704,f,Australia,2,undergrad,early_mature,actualization,store,2,desire,3,5,2,team,influencers,proactive,wellness_stores,self_care,science,privacy,once,active,sad,long
+705,f,Spain,5,graduate,innovator,actualization,social,1,awareness,4,2,1,family,influencers,,health_forums,peace,religion,privacy,weekly,active,none,long
+706,m,China,5,undergrad,early_mature,belonging,store,3,expansion,4,5,1,friends,friends,proactive,yoga_studio,conservative,science,social,monthly,active,sad,long
+707,f,USA,1,undergrad,laggard,belonging,reddit,3,expansion,3,4,4,family,influencers,health,wellness_stores,protect,science,privacy,weekly,active,none,short
+708,m,China,3,undergrad,innovator,belonging,social,3,action,5,4,3,family,influencers,health,health_forums,liberal,religion,ease_of_use,weekly,active,happy,impulsive
+709,f,Canada,4,undergrad,early_mature,esteem,store,1,interest,1,2,1,team,influencers,health,health_forums,conservative,religion,privacy,monthly,inactive,happy,influenced
+710,f,USA,3,high school,late_mature,physiological,email,3,usage,5,2,1,friends,influencers,,yoga_studio,peace,science,social,weekly,inactive,meek,influenced
+711,m,Australia,1,undergrad,innovator,esteem,reddit,2,advocacy,1,2,2,team,friends,proactive,yoga_studio,peace,science,social,daily,active,sad,short
+712,m,Canada,5,high school,early_adoptor,belonging,social,1,adoption,3,4,1,school,influencers,health,gym,conservative,religion,social,daily,inactive,angry,long
+713,m,USA,5,graduate,early_adoptor,physiological,school,3,justify,2,4,5,team,friends,proactive,health_forums,protect,science,privacy,daily,inactive,sad,long
+714,m,Germany,5,high school,laggard,esteem,school,3,expansion,3,5,3,friends,influencers,health,wellness_stores,conservative,religion,social,once,active,none,impulsive
+715,m,Venezuala,5,graduate,innovator,belonging,store,1,action,2,2,3,team,influencers,,gym,conservative,science,privacy,weekly,inactive,happy,long
+716,f,Australia,2,high school,early_adoptor,belonging,social,3,adoption,5,4,2,school,influencers,,wellness_stores,self_care,religion,social,daily,active,sad,short
+717,f,China,2,high school,laggard,esteem,reddit,3,advocacy,2,5,5,family,friends,health,health_forums,protect,religion,ease_of_use,weekly,inactive,meek,short
+718,f,Venezuala,1,graduate,laggard,physiological,social,2,interest,4,1,2,friends,influencers,health,health_forums,protect,science,privacy,once,inactive,meek,research
+719,m,Australia,3,undergrad,late_mature,belonging,store,2,advocacy,5,5,4,team,influencers,health,gym,protect,science,ease_of_use,monthly,inactive,happy,influenced
+720,f,Australia,3,undergrad,innovator,physiological,social,1,awareness,1,1,4,team,friends,proactive,wellness_stores,self_care,science,privacy,daily,inactive,meek,impulsive
+721,m,USA,2,high school,innovator,belonging,school,2,interest,3,1,5,friends,influencers,proactive,gym,liberal,science,social,once,inactive,none,research
+722,f,Spain,1,graduate,laggard,safety,social,2,desire,1,1,5,team,leaders,proactive,yoga_studio,protect,science,privacy,monthly,inactive,angry,research
+723,f,Spain,1,high school,early_adoptor,esteem,social,3,advocacy,2,3,3,team,leaders,,yoga_studio,protect,science,social,once,active,angry,influenced
+724,m,China,2,high school,laggard,physiological,store,1,justify,4,2,1,team,friends,coffee,health_forums,liberal,science,privacy,weekly,inactive,sad,short
+725,m,Venezuala,4,high school,early_adoptor,actualization,store,3,action,1,5,1,family,friends,coffee,yoga_studio,liberal,religion,ease_of_use,once,inactive,none,long
+726,m,Germany,3,graduate,laggard,belonging,email,1,expansion,1,5,2,team,influencers,health,wellness_stores,protect,religion,privacy,weekly,inactive,happy,long
+727,m,USA,1,high school,early_mature,esteem,store,1,awareness,5,2,2,team,leaders,health,wellness_stores,peace,science,privacy,weekly,active,meek,long
+728,m,Venezuala,1,undergrad,laggard,safety,reddit,3,adoption,4,1,4,family,friends,coffee,gym,conservative,science,social,weekly,inactive,angry,research
+729,m,USA,2,undergrad,early_adoptor,safety,email,2,awareness,1,2,4,school,influencers,proactive,health_forums,protect,religion,ease_of_use,once,inactive,meek,long
+730,f,China,2,undergrad,early_mature,esteem,email,2,action,3,4,3,team,leaders,coffee,yoga_studio,self_care,science,ease_of_use,once,inactive,sad,impulsive
+731,m,China,5,graduate,laggard,safety,school,3,usage,4,2,5,friends,leaders,coffee,yoga_studio,peace,religion,social,weekly,inactive,sad,short
+732,m,Germany,3,graduate,late_mature,safety,social,2,awareness,2,1,2,friends,influencers,health,gym,conservative,science,social,weekly,inactive,angry,impulsive
+733,m,USA,5,graduate,innovator,safety,social,2,awareness,4,5,4,family,friends,coffee,gym,peace,religion,ease_of_use,daily,inactive,meek,influenced
+734,f,Germany,1,high school,early_adoptor,actualization,store,3,awareness,2,5,1,family,friends,proactive,yoga_studio,conservative,science,privacy,monthly,inactive,sad,long
+735,m,Australia,1,undergrad,early_adoptor,physiological,reddit,3,awareness,1,1,2,family,influencers,,gym,protect,science,privacy,weekly,inactive,angry,research
+736,f,Canada,3,graduate,late_mature,physiological,social,2,interest,2,3,1,family,friends,,health_forums,protect,science,privacy,daily,active,none,impulsive
+737,f,Canada,1,high school,innovator,safety,school,1,action,3,1,5,family,influencers,coffee,yoga_studio,self_care,science,social,daily,inactive,angry,influenced
+738,f,Australia,4,graduate,early_adoptor,belonging,store,1,desire,2,1,4,family,influencers,health,wellness_stores,peace,science,social,weekly,inactive,none,influenced
+739,f,Canada,4,graduate,early_mature,esteem,reddit,1,awareness,3,4,5,family,leaders,health,yoga_studio,peace,science,ease_of_use,monthly,inactive,angry,short
+740,f,USA,1,undergrad,innovator,physiological,store,1,awareness,2,2,1,team,influencers,,gym,protect,science,privacy,daily,active,meek,impulsive
+741,f,Venezuala,2,graduate,innovator,safety,store,2,justify,2,5,4,team,influencers,health,yoga_studio,protect,science,privacy,weekly,inactive,none,long
+742,f,China,5,graduate,early_adoptor,physiological,school,2,awareness,2,4,2,team,friends,health,wellness_stores,protect,science,privacy,once,inactive,angry,short
+743,f,Germany,1,graduate,early_adoptor,belonging,email,3,interest,3,5,2,friends,leaders,health,health_forums,self_care,religion,social,once,inactive,none,long
+744,f,Canada,1,undergrad,innovator,safety,school,2,awareness,1,3,4,school,influencers,,wellness_stores,liberal,science,social,weekly,active,none,influenced
+745,f,Germany,2,high school,early_adoptor,safety,social,1,retention,5,2,2,friends,influencers,health,gym,conservative,religion,privacy,once,active,none,research
+746,f,China,2,graduate,early_mature,physiological,school,2,expansion,3,2,3,school,friends,,gym,peace,science,privacy,once,inactive,angry,impulsive
+747,m,Spain,1,graduate,laggard,safety,store,1,awareness,1,5,5,team,influencers,proactive,health_forums,self_care,religion,ease_of_use,once,active,meek,research
+748,f,USA,4,graduate,late_mature,safety,store,3,retention,1,5,5,family,influencers,health,health_forums,peace,science,social,weekly,inactive,angry,short
+749,f,Canada,5,graduate,late_mature,belonging,reddit,3,advocacy,5,1,5,friends,influencers,proactive,yoga_studio,self_care,religion,ease_of_use,once,active,angry,influenced
+750,f,Germany,3,high school,early_mature,actualization,social,3,justify,2,4,2,team,leaders,health,health_forums,peace,religion,ease_of_use,once,active,none,research
+751,f,Germany,4,high school,late_mature,safety,email,2,interest,1,4,1,friends,leaders,,wellness_stores,self_care,religion,privacy,monthly,inactive,meek,impulsive
+752,f,Spain,3,undergrad,late_mature,actualization,email,2,action,5,4,5,friends,influencers,coffee,health_forums,peace,science,ease_of_use,daily,active,meek,influenced
+753,m,Spain,3,undergrad,late_mature,safety,school,2,advocacy,4,1,3,school,influencers,coffee,yoga_studio,liberal,religion,ease_of_use,weekly,active,happy,short
+754,f,USA,1,undergrad,innovator,physiological,store,1,adoption,3,1,2,friends,influencers,proactive,yoga_studio,protect,religion,ease_of_use,weekly,active,sad,influenced
+755,f,Australia,5,graduate,early_adoptor,physiological,school,3,advocacy,5,2,3,family,friends,coffee,wellness_stores,liberal,religion,ease_of_use,weekly,inactive,sad,short
+756,f,Spain,4,graduate,early_adoptor,actualization,social,3,usage,2,1,4,friends,influencers,coffee,health_forums,peace,science,social,once,inactive,meek,impulsive
+757,f,Spain,1,undergrad,laggard,actualization,store,2,retention,3,1,2,friends,friends,health,gym,peace,science,social,daily,active,none,influenced
+758,m,Venezuala,1,high school,early_adoptor,physiological,reddit,3,expansion,4,2,2,school,influencers,coffee,wellness_stores,conservative,religion,privacy,monthly,active,sad,impulsive
+759,f,Spain,4,graduate,innovator,safety,email,3,retention,1,3,3,friends,influencers,coffee,gym,protect,science,social,weekly,active,meek,long
+760,m,Germany,1,undergrad,laggard,esteem,school,1,interest,3,1,4,school,influencers,coffee,yoga_studio,conservative,religion,ease_of_use,daily,active,meek,research
+761,f,China,1,high school,early_adoptor,esteem,school,2,justify,2,2,1,family,influencers,,wellness_stores,protect,science,social,monthly,inactive,meek,influenced
+762,f,Germany,3,high school,laggard,physiological,email,1,action,2,2,3,friends,friends,,yoga_studio,conservative,religion,privacy,monthly,inactive,none,research
+763,f,Venezuala,5,high school,laggard,esteem,reddit,2,awareness,5,3,4,team,leaders,,health_forums,liberal,religion,privacy,monthly,active,meek,impulsive
+764,m,Canada,1,graduate,late_mature,belonging,reddit,3,action,2,1,2,school,leaders,proactive,yoga_studio,conservative,religion,social,weekly,active,angry,influenced
+765,f,Germany,3,graduate,early_adoptor,esteem,school,3,awareness,1,1,2,family,leaders,health,wellness_stores,liberal,religion,privacy,weekly,inactive,sad,impulsive
+766,f,Spain,5,high school,early_mature,physiological,email,2,interest,4,3,5,family,friends,proactive,wellness_stores,conservative,religion,social,weekly,active,meek,impulsive
+767,m,Spain,3,high school,laggard,physiological,reddit,2,desire,1,2,1,friends,influencers,,wellness_stores,liberal,science,social,monthly,active,happy,research
+768,f,USA,1,high school,innovator,esteem,store,2,advocacy,4,1,2,friends,leaders,coffee,health_forums,protect,religion,privacy,weekly,inactive,none,research
+769,f,Canada,3,graduate,early_adoptor,esteem,store,3,advocacy,2,4,3,family,leaders,coffee,gym,conservative,religion,social,weekly,active,angry,influenced
+770,m,Germany,1,graduate,late_mature,physiological,social,1,retention,2,2,2,friends,influencers,,yoga_studio,protect,religion,privacy,once,inactive,angry,impulsive
+771,f,Spain,1,graduate,late_mature,esteem,store,1,retention,2,3,5,friends,friends,health,wellness_stores,peace,religion,social,daily,inactive,angry,long
+772,f,China,2,high school,early_adoptor,physiological,school,1,action,1,5,3,friends,influencers,health,health_forums,protect,science,privacy,weekly,active,angry,long
+773,f,China,2,undergrad,late_mature,physiological,social,1,retention,5,1,2,friends,friends,proactive,yoga_studio,conservative,science,social,weekly,inactive,angry,research
+774,f,Australia,4,high school,late_mature,belonging,store,3,advocacy,1,5,2,team,influencers,health,yoga_studio,peace,science,privacy,weekly,inactive,sad,long
+775,m,Australia,3,high school,early_adoptor,safety,school,2,advocacy,2,4,2,friends,friends,proactive,yoga_studio,peace,science,privacy,once,active,meek,impulsive
+776,f,Australia,2,high school,laggard,belonging,social,1,retention,1,1,2,school,influencers,proactive,wellness_stores,peace,religion,privacy,daily,active,sad,impulsive
+777,f,USA,2,high school,innovator,safety,store,2,adoption,3,3,5,friends,friends,proactive,gym,peace,religion,privacy,once,active,sad,influenced
+778,m,Germany,3,undergrad,innovator,belonging,social,3,awareness,5,4,4,team,friends,,yoga_studio,self_care,religion,social,monthly,inactive,meek,long
+779,f,Germany,5,high school,early_mature,safety,social,1,usage,1,5,2,school,leaders,proactive,health_forums,protect,science,social,monthly,active,sad,short
+780,f,USA,2,graduate,innovator,esteem,social,1,interest,2,1,1,team,influencers,proactive,health_forums,liberal,science,social,monthly,inactive,none,short
+781,f,USA,3,undergrad,early_adoptor,physiological,social,2,awareness,1,3,3,team,leaders,,wellness_stores,liberal,religion,privacy,once,active,sad,research
+782,m,Spain,4,high school,late_mature,actualization,reddit,2,interest,4,2,4,school,influencers,health,yoga_studio,conservative,religion,social,monthly,inactive,none,research
+783,m,Venezuala,1,high school,early_mature,safety,social,1,expansion,5,3,2,school,influencers,health,yoga_studio,conservative,religion,privacy,monthly,inactive,angry,research
+784,f,Venezuala,3,undergrad,late_mature,belonging,social,3,awareness,3,1,4,friends,influencers,health,wellness_stores,protect,science,privacy,monthly,active,angry,research
+785,f,USA,2,high school,late_mature,physiological,social,2,advocacy,1,5,5,family,influencers,proactive,gym,peace,science,privacy,once,inactive,none,research
+786,f,Venezuala,5,graduate,laggard,safety,email,2,adoption,5,4,2,friends,influencers,health,gym,conservative,science,social,monthly,active,sad,impulsive
+787,f,Australia,1,graduate,innovator,physiological,reddit,1,usage,4,1,3,school,friends,health,yoga_studio,protect,science,ease_of_use,monthly,inactive,sad,long
+788,f,China,2,high school,innovator,safety,reddit,1,expansion,3,2,5,school,leaders,coffee,wellness_stores,liberal,science,ease_of_use,daily,inactive,meek,influenced
+789,f,USA,4,high school,innovator,safety,school,2,usage,4,3,5,team,leaders,proactive,wellness_stores,conservative,science,privacy,daily,inactive,none,short
+790,f,USA,5,undergrad,early_mature,esteem,store,2,adoption,5,2,1,school,friends,proactive,yoga_studio,peace,religion,ease_of_use,once,inactive,none,influenced
+791,f,Venezuala,2,high school,late_mature,physiological,store,1,usage,1,1,1,friends,influencers,health,yoga_studio,protect,religion,ease_of_use,weekly,inactive,happy,research
+792,f,Germany,5,graduate,innovator,actualization,email,3,action,1,2,5,friends,influencers,coffee,gym,peace,science,ease_of_use,monthly,active,happy,impulsive
+793,m,Germany,2,graduate,innovator,actualization,email,2,awareness,2,1,4,friends,leaders,health,wellness_stores,protect,religion,social,monthly,inactive,angry,short
+794,m,USA,4,graduate,early_mature,actualization,school,2,justify,3,1,5,family,leaders,proactive,yoga_studio,liberal,science,privacy,once,active,happy,short
+795,f,Spain,5,graduate,early_mature,actualization,social,2,desire,1,3,4,family,leaders,coffee,health_forums,liberal,religion,privacy,once,inactive,none,impulsive
+796,m,Germany,5,high school,early_mature,physiological,reddit,1,expansion,1,1,5,friends,influencers,coffee,health_forums,self_care,religion,ease_of_use,weekly,inactive,sad,influenced
+797,f,Australia,4,undergrad,early_mature,safety,reddit,1,justify,1,2,1,family,influencers,coffee,gym,self_care,religion,privacy,daily,active,meek,short
+798,m,Australia,4,high school,early_adoptor,esteem,social,2,justify,2,5,1,team,influencers,,gym,protect,religion,privacy,monthly,inactive,none,impulsive
+799,m,USA,4,high school,early_mature,belonging,store,2,retention,2,1,2,family,influencers,health,gym,liberal,religion,ease_of_use,daily,active,sad,impulsive
+800,m,Venezuala,4,high school,early_adoptor,physiological,email,3,adoption,3,5,4,family,leaders,coffee,health_forums,peace,science,privacy,once,inactive,angry,short
+801,f,Venezuala,1,undergrad,early_mature,safety,store,1,justify,5,5,5,team,friends,coffee,yoga_studio,self_care,science,social,once,active,meek,impulsive
+802,m,Germany,1,high school,late_mature,belonging,email,2,adoption,5,4,1,team,friends,health,yoga_studio,peace,science,ease_of_use,daily,inactive,none,research
+803,f,Germany,5,high school,early_mature,physiological,school,1,usage,3,4,3,team,friends,coffee,gym,liberal,science,privacy,daily,inactive,angry,influenced
+804,m,Venezuala,2,undergrad,early_adoptor,belonging,social,3,usage,5,1,1,family,influencers,,gym,liberal,religion,privacy,weekly,inactive,sad,influenced
+805,m,USA,3,graduate,late_mature,safety,store,1,advocacy,3,4,5,school,friends,,health_forums,liberal,religion,ease_of_use,weekly,inactive,angry,research
+806,f,USA,5,graduate,laggard,esteem,reddit,2,interest,3,1,1,team,leaders,proactive,gym,liberal,religion,privacy,daily,inactive,sad,impulsive
+807,f,Germany,5,undergrad,early_mature,esteem,school,2,desire,4,1,2,family,friends,,yoga_studio,peace,science,privacy,weekly,inactive,sad,long
+808,m,Australia,5,graduate,late_mature,physiological,reddit,1,desire,2,4,5,team,friends,,health_forums,peace,religion,privacy,daily,inactive,angry,influenced
+809,m,Spain,5,undergrad,early_adoptor,physiological,email,1,interest,5,1,3,school,influencers,proactive,health_forums,peace,religion,ease_of_use,daily,inactive,sad,short
+810,f,Germany,2,graduate,late_mature,actualization,email,2,awareness,4,2,5,family,friends,coffee,gym,peace,science,social,monthly,active,meek,impulsive
+811,m,Spain,3,high school,early_adoptor,physiological,reddit,1,desire,3,1,3,team,leaders,proactive,health_forums,conservative,religion,ease_of_use,weekly,inactive,none,long
+812,m,Venezuala,1,undergrad,early_mature,safety,social,1,retention,2,3,5,family,leaders,coffee,gym,conservative,religion,social,monthly,active,happy,short
+813,m,Venezuala,4,high school,early_mature,safety,email,2,interest,3,3,2,family,friends,proactive,yoga_studio,peace,science,privacy,monthly,active,sad,influenced
+814,f,Germany,3,graduate,early_adoptor,belonging,reddit,3,usage,2,4,1,friends,influencers,coffee,yoga_studio,self_care,religion,privacy,daily,active,none,short
+815,f,Canada,2,high school,laggard,esteem,email,2,usage,5,3,5,friends,friends,,yoga_studio,protect,religion,ease_of_use,weekly,active,none,impulsive
+816,f,USA,3,high school,early_adoptor,esteem,reddit,3,desire,4,1,3,friends,leaders,coffee,gym,liberal,religion,social,once,active,meek,short
+817,f,USA,5,high school,innovator,actualization,reddit,2,desire,5,3,3,team,influencers,,gym,liberal,religion,privacy,weekly,inactive,none,long
+818,f,Germany,2,undergrad,late_mature,safety,school,3,desire,2,1,2,family,friends,,wellness_stores,conservative,religion,social,daily,active,sad,influenced
+819,m,Australia,4,graduate,late_mature,safety,reddit,1,advocacy,4,1,1,family,friends,health,gym,conservative,science,ease_of_use,monthly,inactive,happy,influenced
+820,f,Germany,5,high school,late_mature,belonging,store,3,adoption,3,5,2,friends,leaders,health,yoga_studio,protect,religion,social,weekly,inactive,sad,short
+821,f,Germany,3,high school,early_adoptor,physiological,store,1,advocacy,2,2,4,school,friends,,wellness_stores,peace,science,social,once,inactive,none,research
+822,m,Spain,1,graduate,innovator,esteem,email,3,expansion,1,2,2,friends,influencers,coffee,wellness_stores,protect,religion,privacy,weekly,active,sad,impulsive
+823,f,Australia,4,graduate,late_mature,belonging,school,2,adoption,4,1,2,family,leaders,coffee,wellness_stores,self_care,religion,ease_of_use,monthly,active,none,influenced
+824,m,Canada,3,undergrad,laggard,belonging,social,1,action,5,2,2,family,leaders,,yoga_studio,self_care,science,privacy,weekly,inactive,none,short
+825,f,Germany,2,undergrad,early_mature,esteem,social,3,retention,3,3,3,friends,influencers,health,yoga_studio,conservative,religion,social,monthly,active,none,research
+826,m,China,4,high school,laggard,physiological,email,1,desire,3,1,1,school,friends,coffee,gym,liberal,religion,privacy,once,active,none,research
+827,m,Spain,2,undergrad,laggard,safety,school,3,action,5,4,5,team,influencers,,wellness_stores,liberal,religion,privacy,monthly,active,happy,influenced
+828,f,Canada,2,graduate,early_mature,physiological,reddit,3,awareness,5,3,4,team,influencers,proactive,gym,conservative,science,ease_of_use,monthly,active,happy,short
+829,f,Germany,3,undergrad,early_mature,esteem,social,3,advocacy,1,2,4,friends,friends,health,gym,liberal,science,ease_of_use,daily,active,meek,impulsive
+830,m,Australia,2,high school,early_mature,belonging,store,2,awareness,4,5,1,school,influencers,health,gym,protect,religion,privacy,weekly,active,happy,influenced
+831,f,Spain,5,high school,early_adoptor,physiological,school,1,justify,5,2,5,team,friends,coffee,health_forums,peace,religion,ease_of_use,monthly,active,none,short
+832,f,Canada,3,high school,innovator,physiological,email,1,expansion,2,2,4,school,friends,proactive,gym,protect,religion,privacy,once,active,happy,impulsive
+833,m,USA,5,undergrad,innovator,safety,store,2,interest,5,2,2,team,friends,coffee,gym,liberal,religion,privacy,monthly,active,meek,influenced
+834,f,Australia,1,graduate,early_mature,belonging,social,1,desire,2,5,1,family,influencers,coffee,gym,protect,science,ease_of_use,once,inactive,happy,influenced
+835,f,USA,3,high school,early_mature,esteem,reddit,3,desire,4,5,3,family,influencers,proactive,wellness_stores,self_care,science,social,monthly,active,meek,influenced
+836,f,Venezuala,4,graduate,late_mature,physiological,store,3,adoption,2,2,1,family,leaders,coffee,yoga_studio,peace,science,ease_of_use,monthly,active,sad,influenced
+837,f,China,5,graduate,innovator,belonging,social,3,desire,5,2,3,family,influencers,coffee,gym,self_care,science,social,monthly,inactive,happy,impulsive
+838,m,Canada,2,graduate,late_mature,physiological,store,2,retention,2,5,4,school,influencers,,wellness_stores,protect,science,social,once,active,sad,short
+839,f,USA,4,graduate,early_adoptor,physiological,email,1,expansion,1,1,4,team,leaders,coffee,gym,self_care,religion,ease_of_use,once,inactive,sad,impulsive
+840,m,Spain,3,undergrad,early_mature,physiological,email,1,desire,1,2,1,friends,leaders,,health_forums,conservative,religion,privacy,weekly,inactive,meek,long
+841,f,Canada,4,high school,laggard,actualization,email,1,interest,2,2,4,school,leaders,,wellness_stores,self_care,religion,social,once,inactive,angry,influenced
+842,m,Germany,4,high school,laggard,physiological,reddit,2,adoption,2,3,3,team,friends,coffee,wellness_stores,peace,science,privacy,daily,inactive,happy,short
+843,m,Australia,1,graduate,early_adoptor,esteem,social,1,adoption,2,5,4,friends,influencers,health,health_forums,peace,science,privacy,monthly,active,sad,long
+844,f,Venezuala,4,high school,late_mature,actualization,school,3,expansion,3,5,5,school,friends,coffee,yoga_studio,peace,religion,social,monthly,inactive,none,long
+845,m,USA,3,high school,innovator,physiological,reddit,1,awareness,3,2,1,friends,leaders,health,yoga_studio,conservative,religion,ease_of_use,monthly,active,angry,impulsive
+846,m,USA,3,graduate,innovator,safety,store,2,adoption,5,3,2,team,influencers,health,gym,liberal,religion,privacy,daily,active,meek,long
+847,f,Spain,4,undergrad,early_adoptor,belonging,school,3,expansion,5,4,5,school,friends,health,health_forums,conservative,science,social,monthly,inactive,happy,research
+848,f,Germany,5,graduate,late_mature,physiological,reddit,2,retention,5,3,2,family,leaders,,wellness_stores,peace,science,social,daily,active,sad,impulsive
+849,f,Canada,5,undergrad,laggard,belonging,social,3,desire,2,2,5,school,influencers,proactive,yoga_studio,self_care,religion,social,weekly,active,sad,influenced
+850,m,Australia,1,high school,late_mature,actualization,email,3,usage,2,5,5,team,influencers,health,health_forums,self_care,religion,privacy,monthly,inactive,sad,research
+851,m,China,5,undergrad,early_mature,belonging,store,2,advocacy,3,5,2,school,influencers,coffee,yoga_studio,self_care,religion,ease_of_use,once,inactive,sad,influenced
+852,m,Germany,2,undergrad,early_mature,physiological,store,1,advocacy,3,2,2,family,influencers,,gym,peace,science,ease_of_use,monthly,active,meek,short
+853,f,USA,3,graduate,laggard,belonging,email,1,retention,3,1,5,team,friends,coffee,yoga_studio,liberal,religion,ease_of_use,once,active,meek,long
+854,f,Spain,5,graduate,innovator,belonging,social,1,advocacy,3,2,4,family,leaders,coffee,health_forums,protect,religion,social,daily,inactive,none,long
+855,m,USA,1,high school,late_mature,physiological,store,1,advocacy,1,2,4,team,friends,health,health_forums,self_care,science,social,weekly,inactive,sad,impulsive
+856,m,Venezuala,1,undergrad,innovator,belonging,store,2,advocacy,2,2,1,school,leaders,coffee,health_forums,protect,science,ease_of_use,weekly,active,meek,impulsive
+857,f,USA,1,graduate,early_mature,physiological,email,3,justify,1,3,4,friends,friends,,yoga_studio,conservative,science,ease_of_use,weekly,active,sad,short
+858,m,Venezuala,5,graduate,innovator,actualization,store,3,advocacy,3,1,4,family,influencers,health,health_forums,self_care,science,ease_of_use,daily,inactive,meek,research
+859,m,USA,3,graduate,innovator,esteem,school,1,action,2,1,1,friends,leaders,proactive,wellness_stores,liberal,science,social,weekly,inactive,meek,research
+860,f,Germany,1,graduate,innovator,actualization,email,3,desire,5,1,3,friends,leaders,proactive,wellness_stores,peace,religion,social,weekly,inactive,meek,impulsive
+861,m,Australia,1,high school,late_mature,physiological,social,3,justify,3,2,3,family,leaders,proactive,wellness_stores,protect,science,social,once,inactive,angry,research
+862,f,Canada,1,graduate,early_mature,belonging,store,2,usage,1,3,1,family,friends,health,gym,self_care,science,social,once,inactive,sad,research
+863,m,China,5,undergrad,laggard,belonging,school,2,retention,5,2,3,team,friends,proactive,yoga_studio,conservative,science,privacy,monthly,active,sad,research
+864,f,China,3,graduate,early_adoptor,esteem,reddit,1,advocacy,2,3,1,family,friends,health,gym,conservative,religion,social,once,inactive,angry,long
+865,f,Spain,5,high school,innovator,physiological,social,3,justify,5,4,1,friends,friends,,health_forums,peace,religion,ease_of_use,monthly,active,happy,short
+866,m,Spain,5,graduate,laggard,safety,reddit,1,desire,4,4,2,team,leaders,coffee,gym,protect,science,ease_of_use,once,active,none,long
+867,m,Venezuala,5,graduate,early_mature,safety,email,2,advocacy,2,5,5,team,leaders,health,health_forums,peace,religion,ease_of_use,monthly,inactive,happy,impulsive
+868,f,Australia,2,undergrad,innovator,safety,school,3,awareness,1,2,2,team,influencers,health,health_forums,protect,religion,ease_of_use,once,inactive,none,long
+869,m,Venezuala,3,high school,late_mature,actualization,store,2,usage,4,1,3,school,leaders,health,health_forums,peace,science,privacy,monthly,inactive,none,impulsive
+870,f,Germany,4,undergrad,early_mature,safety,reddit,2,action,1,3,1,school,influencers,proactive,yoga_studio,conservative,religion,privacy,daily,active,angry,long
+871,m,Germany,2,high school,late_mature,belonging,store,1,retention,3,2,2,team,friends,coffee,yoga_studio,protect,science,social,monthly,active,happy,short
+872,m,Canada,3,graduate,innovator,belonging,school,2,desire,1,5,1,friends,leaders,coffee,health_forums,liberal,religion,social,weekly,active,happy,long
+873,m,Canada,4,graduate,early_mature,belonging,email,1,adoption,2,5,5,family,friends,proactive,health_forums,self_care,religion,privacy,weekly,active,angry,short
+874,f,China,4,graduate,late_mature,physiological,email,2,awareness,4,4,1,school,influencers,coffee,health_forums,liberal,religion,social,daily,active,meek,influenced
+875,m,Canada,2,undergrad,innovator,esteem,social,1,expansion,5,3,3,team,leaders,proactive,yoga_studio,liberal,religion,ease_of_use,daily,inactive,meek,long
+876,f,China,3,graduate,early_mature,safety,store,2,awareness,5,1,2,friends,influencers,,wellness_stores,peace,religion,ease_of_use,monthly,active,none,impulsive
+877,m,Spain,2,graduate,early_adoptor,physiological,social,2,usage,5,1,2,friends,friends,coffee,yoga_studio,conservative,science,social,monthly,inactive,happy,influenced
+878,f,USA,2,high school,early_adoptor,physiological,school,2,action,2,1,1,family,leaders,coffee,gym,protect,religion,ease_of_use,once,active,angry,impulsive
+879,m,USA,5,graduate,early_adoptor,physiological,email,1,action,3,2,5,friends,friends,coffee,health_forums,conservative,science,ease_of_use,daily,inactive,happy,long
+880,f,Spain,1,undergrad,late_mature,physiological,reddit,3,awareness,3,4,3,family,friends,coffee,wellness_stores,self_care,religion,ease_of_use,monthly,inactive,none,long
+881,m,Venezuala,1,undergrad,laggard,safety,email,1,usage,1,2,3,team,friends,coffee,gym,conservative,religion,privacy,daily,active,happy,influenced
+882,f,Venezuala,4,graduate,laggard,physiological,store,2,action,2,2,2,school,leaders,health,wellness_stores,conservative,religion,ease_of_use,once,active,none,research
+883,m,USA,3,graduate,early_adoptor,esteem,school,3,retention,2,1,1,school,friends,proactive,wellness_stores,peace,religion,social,weekly,inactive,sad,research
+884,f,Venezuala,3,graduate,laggard,belonging,email,2,usage,5,3,1,school,influencers,health,health_forums,self_care,science,ease_of_use,daily,inactive,sad,long
+885,m,Spain,4,high school,early_adoptor,safety,social,2,desire,4,3,4,school,leaders,health,health_forums,liberal,science,ease_of_use,monthly,active,meek,influenced
+886,f,China,4,undergrad,laggard,belonging,school,1,awareness,1,3,2,team,influencers,,gym,self_care,religion,social,monthly,active,happy,short
+887,f,Canada,2,undergrad,early_adoptor,belonging,store,2,awareness,1,5,1,team,influencers,health,wellness_stores,self_care,science,privacy,once,inactive,happy,impulsive
+888,m,Germany,4,high school,early_mature,actualization,social,3,desire,3,3,2,school,friends,coffee,gym,liberal,religion,social,monthly,active,sad,research
+889,f,Australia,3,high school,early_adoptor,actualization,email,1,expansion,4,5,4,school,friends,health,yoga_studio,peace,science,ease_of_use,daily,inactive,meek,influenced
+890,m,China,5,high school,innovator,belonging,reddit,2,usage,3,4,1,team,leaders,,gym,peace,religion,privacy,monthly,inactive,meek,long
+891,f,Australia,4,undergrad,laggard,esteem,social,3,advocacy,2,3,1,friends,influencers,proactive,wellness_stores,protect,religion,ease_of_use,daily,active,sad,research
+892,m,Canada,3,graduate,late_mature,actualization,store,1,retention,5,4,3,friends,friends,health,wellness_stores,self_care,religion,privacy,monthly,inactive,meek,influenced
+893,f,China,5,high school,innovator,safety,store,1,justify,3,4,3,friends,leaders,proactive,wellness_stores,liberal,religion,social,weekly,active,meek,research
+894,m,Venezuala,1,high school,early_adoptor,esteem,store,1,action,2,4,2,school,friends,,health_forums,self_care,science,privacy,weekly,inactive,angry,influenced
+895,f,China,2,graduate,early_adoptor,safety,store,1,expansion,5,5,3,friends,influencers,health,health_forums,conservative,religion,privacy,daily,active,meek,research
+896,m,Venezuala,4,graduate,early_adoptor,belonging,reddit,1,usage,3,1,3,team,friends,,wellness_stores,protect,religion,ease_of_use,monthly,inactive,meek,influenced
+897,f,Spain,2,high school,early_adoptor,actualization,social,1,retention,1,5,1,team,friends,proactive,health_forums,protect,science,privacy,weekly,active,angry,long
+898,f,Canada,4,high school,laggard,safety,school,1,retention,3,2,1,school,leaders,coffee,health_forums,conservative,science,privacy,weekly,active,angry,research
+899,m,Venezuala,2,graduate,late_mature,safety,school,2,interest,5,4,4,family,influencers,health,health_forums,liberal,religion,ease_of_use,weekly,active,meek,long
+900,m,Australia,1,high school,early_adoptor,belonging,store,1,adoption,5,4,1,friends,friends,proactive,gym,protect,science,privacy,weekly,active,meek,short
+901,m,Australia,2,graduate,early_adoptor,physiological,store,3,justify,1,1,5,family,friends,,wellness_stores,peace,religion,social,once,active,happy,long
+902,f,Venezuala,3,graduate,laggard,physiological,email,3,interest,2,3,1,friends,leaders,proactive,wellness_stores,protect,religion,privacy,once,inactive,none,impulsive
+903,m,Spain,4,undergrad,early_mature,safety,store,1,justify,5,1,2,family,leaders,proactive,health_forums,self_care,religion,privacy,once,active,meek,influenced
+904,m,Spain,3,undergrad,late_mature,physiological,school,2,action,3,3,3,school,leaders,coffee,yoga_studio,self_care,religion,privacy,once,inactive,angry,long
+905,m,China,5,undergrad,laggard,actualization,reddit,1,adoption,4,4,2,family,friends,,gym,peace,science,privacy,daily,active,none,influenced
+906,m,Germany,5,graduate,laggard,safety,store,3,justify,4,2,2,school,leaders,,yoga_studio,peace,science,social,weekly,inactive,sad,influenced
+907,f,Canada,5,undergrad,early_mature,esteem,email,1,justify,3,5,2,school,leaders,health,wellness_stores,peace,science,ease_of_use,weekly,active,angry,short
+908,f,USA,4,graduate,late_mature,physiological,reddit,1,expansion,3,3,3,team,influencers,coffee,gym,liberal,science,social,weekly,inactive,meek,influenced
+909,m,Spain,5,high school,early_mature,esteem,reddit,2,awareness,1,5,3,team,influencers,health,yoga_studio,self_care,religion,ease_of_use,weekly,inactive,angry,influenced
+910,m,USA,5,high school,innovator,safety,school,2,awareness,2,2,5,friends,friends,health,wellness_stores,protect,science,social,once,active,angry,long
+911,m,China,2,undergrad,early_adoptor,physiological,email,1,justify,3,2,3,school,influencers,coffee,yoga_studio,peace,science,social,daily,active,angry,impulsive
+912,f,China,4,high school,innovator,actualization,email,1,awareness,2,3,4,school,friends,coffee,yoga_studio,liberal,science,social,weekly,inactive,meek,short
+913,m,Australia,4,graduate,laggard,actualization,social,1,justify,4,2,2,team,leaders,health,gym,liberal,science,ease_of_use,monthly,inactive,sad,short
+914,f,Germany,4,undergrad,early_mature,belonging,reddit,3,interest,3,4,3,family,leaders,coffee,yoga_studio,protect,science,privacy,once,inactive,angry,research
+915,f,China,5,high school,early_mature,actualization,reddit,3,retention,2,2,5,school,leaders,proactive,yoga_studio,liberal,religion,social,monthly,active,angry,impulsive
+916,f,Australia,3,undergrad,innovator,belonging,school,2,interest,5,3,3,team,leaders,coffee,gym,self_care,religion,privacy,monthly,inactive,happy,short
+917,f,China,3,undergrad,late_mature,safety,reddit,3,desire,2,4,2,team,leaders,health,gym,protect,religion,social,monthly,inactive,happy,research
+918,m,Germany,4,graduate,laggard,actualization,social,2,justify,1,2,1,friends,friends,coffee,gym,conservative,religion,ease_of_use,daily,active,happy,long
+919,f,China,1,high school,early_mature,belonging,store,1,awareness,1,5,5,friends,friends,,gym,conservative,religion,ease_of_use,monthly,active,none,long
+920,m,USA,4,undergrad,innovator,safety,reddit,1,action,3,4,2,school,leaders,proactive,yoga_studio,conservative,science,privacy,once,inactive,sad,impulsive
+921,m,China,1,undergrad,laggard,physiological,email,3,awareness,1,5,5,school,friends,coffee,health_forums,protect,science,ease_of_use,once,active,meek,research
+922,f,Canada,3,undergrad,late_mature,belonging,reddit,2,desire,4,2,1,team,influencers,proactive,wellness_stores,self_care,science,ease_of_use,daily,active,happy,impulsive
+923,m,China,3,high school,early_mature,physiological,social,1,action,2,3,3,friends,influencers,coffee,yoga_studio,liberal,religion,social,monthly,active,meek,short
+924,m,Germany,3,undergrad,early_mature,esteem,reddit,3,desire,5,3,2,school,influencers,proactive,gym,conservative,science,social,daily,inactive,meek,long
+925,m,Venezuala,5,graduate,early_mature,belonging,store,1,desire,1,4,4,school,influencers,,wellness_stores,liberal,religion,privacy,daily,inactive,angry,impulsive
+926,f,China,1,graduate,late_mature,actualization,store,1,adoption,4,3,5,team,leaders,coffee,wellness_stores,liberal,science,ease_of_use,weekly,inactive,happy,impulsive
+927,f,Spain,2,undergrad,early_mature,belonging,reddit,2,awareness,2,2,5,friends,leaders,proactive,health_forums,conservative,religion,ease_of_use,once,active,angry,long
+928,m,Australia,1,graduate,innovator,belonging,reddit,2,justify,3,3,2,team,leaders,proactive,wellness_stores,liberal,religion,ease_of_use,weekly,active,sad,influenced
+929,f,USA,5,undergrad,early_mature,actualization,store,2,awareness,2,5,4,family,influencers,coffee,yoga_studio,self_care,science,ease_of_use,daily,inactive,none,short
+930,f,Australia,2,undergrad,early_adoptor,actualization,reddit,3,expansion,4,3,1,family,friends,,yoga_studio,protect,religion,privacy,daily,inactive,happy,short
+931,m,USA,3,undergrad,early_adoptor,actualization,school,3,action,1,4,3,team,influencers,coffee,wellness_stores,conservative,science,social,monthly,inactive,meek,short
+932,m,Venezuala,1,graduate,innovator,actualization,store,2,adoption,5,4,2,family,influencers,health,health_forums,peace,religion,privacy,once,active,meek,research
+933,m,Germany,1,undergrad,early_mature,belonging,store,1,interest,3,5,2,school,leaders,coffee,health_forums,peace,religion,privacy,monthly,active,sad,short
+934,m,USA,3,high school,innovator,belonging,social,2,interest,1,5,4,school,influencers,proactive,health_forums,protect,science,social,monthly,active,angry,long
+935,m,Spain,4,high school,late_mature,belonging,store,1,usage,3,5,5,team,leaders,health,gym,peace,religion,ease_of_use,once,inactive,none,short
+936,m,Venezuala,1,undergrad,early_mature,esteem,school,1,interest,5,2,5,team,influencers,proactive,yoga_studio,liberal,religion,ease_of_use,daily,inactive,angry,impulsive
+937,m,Venezuala,2,graduate,early_adoptor,physiological,store,1,awareness,2,5,4,friends,friends,,wellness_stores,peace,religion,social,weekly,active,meek,long
+938,f,Australia,1,undergrad,laggard,safety,social,3,retention,1,2,5,family,influencers,proactive,wellness_stores,protect,religion,ease_of_use,daily,inactive,happy,influenced
+939,f,Venezuala,2,graduate,late_mature,safety,reddit,3,expansion,4,3,4,friends,influencers,proactive,wellness_stores,liberal,science,social,daily,inactive,none,influenced
+940,f,Canada,5,high school,early_adoptor,belonging,reddit,2,retention,2,2,2,friends,leaders,coffee,health_forums,protect,religion,social,once,active,happy,influenced
+941,f,Germany,5,undergrad,late_mature,safety,social,3,awareness,5,4,3,friends,influencers,proactive,health_forums,conservative,religion,privacy,daily,inactive,none,short
+942,f,USA,2,undergrad,early_adoptor,actualization,school,1,usage,2,5,1,team,influencers,,yoga_studio,protect,science,privacy,daily,active,meek,short
+943,m,Germany,1,graduate,late_mature,safety,social,1,advocacy,1,2,3,family,leaders,health,gym,protect,religion,ease_of_use,weekly,inactive,happy,long
+944,f,Germany,2,undergrad,late_mature,physiological,reddit,3,desire,3,4,3,friends,leaders,,health_forums,conservative,science,social,weekly,active,happy,long
+945,m,China,5,undergrad,late_mature,belonging,social,2,action,4,3,4,school,leaders,health,wellness_stores,conservative,science,ease_of_use,monthly,active,meek,influenced
+946,f,Canada,3,high school,early_mature,physiological,store,1,interest,1,1,5,school,friends,,yoga_studio,peace,science,ease_of_use,weekly,inactive,none,short
+947,f,Spain,2,graduate,early_mature,physiological,school,1,retention,5,5,4,family,leaders,,yoga_studio,conservative,religion,ease_of_use,daily,inactive,sad,impulsive
+948,m,Australia,1,undergrad,late_mature,actualization,social,3,awareness,4,1,5,friends,influencers,,yoga_studio,conservative,religion,privacy,weekly,inactive,none,long
+949,m,China,4,high school,early_mature,esteem,school,1,expansion,1,1,3,team,leaders,coffee,wellness_stores,peace,religion,privacy,once,inactive,meek,long
+950,m,Canada,1,graduate,late_mature,safety,reddit,1,justify,2,2,1,friends,friends,,gym,peace,science,ease_of_use,once,inactive,none,short
+951,f,Germany,3,graduate,early_adoptor,physiological,social,3,expansion,2,5,5,school,leaders,,gym,self_care,science,ease_of_use,daily,active,none,long
+952,m,Canada,1,undergrad,laggard,belonging,email,2,expansion,2,3,5,team,friends,,yoga_studio,liberal,religion,social,weekly,inactive,meek,impulsive
+953,m,USA,2,high school,early_mature,physiological,social,2,justify,1,5,1,family,leaders,proactive,wellness_stores,peace,religion,privacy,once,inactive,angry,impulsive
+954,m,Australia,4,high school,laggard,safety,email,3,desire,2,2,2,team,leaders,proactive,wellness_stores,liberal,science,social,monthly,inactive,meek,short
+955,m,USA,2,high school,early_mature,actualization,reddit,3,expansion,5,4,5,team,influencers,proactive,gym,liberal,science,social,weekly,active,none,impulsive
+956,f,Germany,2,high school,innovator,actualization,social,1,desire,2,3,1,friends,leaders,,health_forums,liberal,science,ease_of_use,once,active,happy,short
+957,f,Spain,5,graduate,laggard,safety,email,2,adoption,1,4,1,family,influencers,proactive,yoga_studio,self_care,religion,privacy,monthly,inactive,none,influenced
+958,m,China,1,graduate,laggard,safety,email,1,adoption,4,4,4,family,friends,coffee,wellness_stores,liberal,religion,social,once,active,meek,influenced
+959,m,Germany,4,high school,innovator,actualization,school,2,awareness,4,3,4,school,friends,health,wellness_stores,conservative,science,privacy,monthly,active,none,research
+960,f,Germany,3,graduate,early_adoptor,actualization,email,3,usage,2,2,4,school,influencers,proactive,yoga_studio,conservative,science,ease_of_use,daily,active,meek,research
+961,m,Germany,3,high school,laggard,actualization,school,1,adoption,1,1,1,school,leaders,,health_forums,self_care,religion,privacy,monthly,active,meek,influenced
+962,f,Spain,2,graduate,early_adoptor,physiological,store,1,awareness,1,5,2,school,friends,proactive,wellness_stores,conservative,science,ease_of_use,weekly,inactive,angry,short
+963,m,USA,5,undergrad,early_adoptor,esteem,school,3,adoption,4,4,4,team,friends,coffee,health_forums,conservative,religion,social,daily,active,happy,long
+964,m,China,1,undergrad,innovator,safety,reddit,1,advocacy,3,5,3,family,influencers,coffee,gym,liberal,religion,ease_of_use,once,active,happy,long
+965,f,China,2,undergrad,late_mature,esteem,reddit,3,desire,1,1,4,friends,influencers,proactive,health_forums,self_care,science,social,daily,inactive,meek,short
+966,f,Australia,2,undergrad,laggard,actualization,social,3,advocacy,2,1,1,friends,leaders,proactive,health_forums,peace,science,social,monthly,inactive,meek,short
+967,m,Spain,4,undergrad,late_mature,safety,email,3,advocacy,3,1,1,family,friends,coffee,yoga_studio,self_care,religion,privacy,daily,active,happy,research
+968,m,Germany,5,graduate,early_adoptor,actualization,school,2,adoption,1,4,1,school,influencers,health,yoga_studio,conservative,science,social,monthly,inactive,happy,short
+969,f,Venezuala,3,high school,early_mature,actualization,social,3,retention,2,4,3,school,influencers,coffee,yoga_studio,peace,science,ease_of_use,daily,active,angry,influenced
+970,m,Canada,4,undergrad,early_mature,belonging,reddit,2,desire,1,4,4,team,influencers,,wellness_stores,liberal,religion,ease_of_use,weekly,inactive,sad,research
+971,f,Canada,1,high school,innovator,esteem,school,3,expansion,3,2,1,team,leaders,health,yoga_studio,peace,religion,ease_of_use,daily,inactive,meek,research
+972,m,Germany,3,high school,early_adoptor,esteem,reddit,3,adoption,3,4,1,family,friends,health,gym,self_care,religion,ease_of_use,daily,inactive,sad,impulsive
+973,f,China,2,high school,laggard,actualization,school,2,desire,2,1,4,friends,friends,proactive,yoga_studio,liberal,science,privacy,monthly,inactive,angry,influenced
+974,f,Canada,1,graduate,early_mature,safety,school,3,usage,2,1,5,friends,leaders,health,wellness_stores,self_care,religion,ease_of_use,monthly,inactive,sad,research
+975,m,Spain,1,undergrad,late_mature,belonging,email,2,adoption,3,1,4,school,friends,,wellness_stores,protect,science,social,once,active,happy,influenced
+976,m,China,1,graduate,early_mature,physiological,email,1,advocacy,5,3,4,school,friends,coffee,gym,conservative,science,social,daily,active,happy,impulsive
+977,f,Germany,4,high school,late_mature,safety,email,1,justify,1,4,4,team,leaders,,wellness_stores,peace,science,ease_of_use,weekly,inactive,sad,short
+978,m,Canada,4,graduate,innovator,belonging,reddit,1,retention,5,1,2,friends,friends,,wellness_stores,peace,religion,ease_of_use,daily,inactive,sad,impulsive
+979,m,Germany,5,undergrad,early_mature,physiological,email,2,adoption,4,4,5,team,friends,proactive,health_forums,protect,science,ease_of_use,monthly,inactive,happy,research
+980,f,Germany,5,graduate,early_mature,esteem,school,2,advocacy,2,2,4,team,friends,coffee,yoga_studio,conservative,religion,ease_of_use,once,inactive,happy,impulsive
+981,m,China,4,undergrad,late_mature,physiological,school,1,desire,2,4,5,school,friends,health,yoga_studio,protect,religion,social,weekly,active,sad,research
+982,f,Australia,4,undergrad,early_mature,safety,email,1,retention,5,3,5,family,leaders,health,gym,liberal,science,social,weekly,active,angry,research
+983,m,Venezuala,2,undergrad,early_mature,safety,reddit,1,usage,5,5,2,family,friends,coffee,health_forums,protect,science,social,daily,active,sad,influenced
+984,m,China,2,high school,early_mature,physiological,reddit,1,awareness,2,1,1,team,friends,coffee,yoga_studio,liberal,religion,privacy,weekly,active,none,influenced
+985,m,Venezuala,3,high school,laggard,safety,social,2,interest,5,1,2,school,leaders,,health_forums,protect,religion,privacy,once,active,meek,long
+986,f,China,4,high school,innovator,actualization,reddit,1,expansion,2,1,1,family,influencers,coffee,wellness_stores,liberal,science,ease_of_use,weekly,active,sad,short
+987,m,Canada,3,graduate,innovator,actualization,reddit,2,interest,2,5,1,school,leaders,coffee,gym,liberal,religion,privacy,daily,inactive,none,long
+988,f,Canada,2,undergrad,late_mature,belonging,email,3,expansion,3,2,3,team,influencers,proactive,yoga_studio,conservative,religion,social,once,active,angry,research
+989,f,Spain,3,graduate,early_adoptor,actualization,social,1,action,1,3,3,family,influencers,proactive,health_forums,self_care,science,privacy,weekly,inactive,meek,long
+990,m,Spain,5,undergrad,early_adoptor,esteem,store,1,awareness,3,4,2,friends,friends,,yoga_studio,self_care,science,social,daily,inactive,angry,impulsive
+991,f,Venezuala,3,high school,innovator,physiological,email,1,interest,2,3,3,team,leaders,proactive,health_forums,conservative,science,social,monthly,inactive,sad,long
+992,f,Spain,1,undergrad,early_mature,physiological,reddit,2,retention,4,3,5,team,friends,,wellness_stores,conservative,religion,social,daily,active,angry,influenced
+993,m,Germany,2,undergrad,early_mature,safety,school,2,expansion,1,5,4,team,leaders,health,health_forums,conservative,religion,ease_of_use,monthly,inactive,meek,research
+994,m,Venezuala,1,graduate,laggard,actualization,reddit,1,desire,1,1,4,family,influencers,,yoga_studio,conservative,religion,social,weekly,inactive,none,research
+995,f,Australia,4,high school,late_mature,actualization,store,2,justify,2,3,4,team,leaders,proactive,wellness_stores,peace,religion,privacy,weekly,active,sad,research
+996,f,Spain,4,high school,early_mature,physiological,email,3,justify,4,3,3,team,leaders,proactive,gym,liberal,religion,ease_of_use,once,active,none,long
+997,m,Venezuala,2,undergrad,early_mature,belonging,store,3,desire,2,4,5,school,leaders,,yoga_studio,peace,science,privacy,once,inactive,happy,research
+998,m,Canada,3,graduate,innovator,belonging,email,2,usage,1,3,1,team,friends,coffee,health_forums,protect,science,privacy,monthly,inactive,sad,research
+999,f,Germany,3,undergrad,innovator,safety,email,2,awareness,3,1,5,family,influencers,health,health_forums,self_care,religion,ease_of_use,monthly,inactive,happy,influenced
+1000,f,Venezuala,1,high school,innovator,actualization,school,3,advocacy,5,5,5,family,leaders,proactive,health_forums,protect,religion,privacy,monthly,active,angry,influenced
+1001,f,Australia,1,undergrad,laggard,actualization,school,2,adoption,4,5,3,school,influencers,coffee,health_forums,protect,religion,ease_of_use,weekly,inactive,meek,short
+1002,f,Venezuala,3,high school,late_mature,esteem,reddit,1,expansion,3,3,1,school,friends,proactive,gym,peace,science,social,weekly,active,sad,impulsive
+1003,f,China,3,high school,late_mature,actualization,store,3,advocacy,4,4,5,team,influencers,proactive,wellness_stores,peace,science,privacy,monthly,active,none,long
+1004,m,Australia,1,graduate,early_mature,physiological,store,2,desire,5,3,1,school,friends,health,gym,self_care,science,privacy,daily,inactive,none,short
+1005,f,Canada,2,undergrad,innovator,belonging,social,3,usage,2,1,4,family,influencers,coffee,health_forums,conservative,science,ease_of_use,weekly,active,happy,short
+1006,m,Australia,1,undergrad,early_mature,safety,reddit,1,retention,2,5,3,friends,friends,coffee,health_forums,self_care,science,privacy,monthly,active,angry,long
+1007,f,Venezuala,3,high school,early_mature,actualization,reddit,3,advocacy,1,3,1,friends,leaders,health,yoga_studio,conservative,science,ease_of_use,monthly,inactive,none,long
+1008,m,Australia,3,graduate,laggard,safety,social,2,advocacy,3,5,3,team,influencers,health,health_forums,conservative,science,ease_of_use,daily,active,sad,impulsive
+1009,f,China,2,graduate,early_adoptor,safety,reddit,3,interest,4,4,3,family,friends,coffee,gym,liberal,religion,ease_of_use,once,active,happy,research
+1010,m,USA,2,undergrad,late_mature,esteem,reddit,1,interest,4,3,4,friends,friends,coffee,gym,liberal,religion,ease_of_use,daily,active,sad,influenced
+1011,m,USA,3,high school,innovator,physiological,store,3,awareness,3,3,4,school,leaders,coffee,yoga_studio,peace,science,social,weekly,active,meek,long
+1012,f,Venezuala,5,graduate,early_mature,esteem,store,1,interest,5,3,4,school,leaders,health,gym,protect,science,social,weekly,active,angry,impulsive
+1013,f,Venezuala,4,high school,late_mature,esteem,email,1,advocacy,4,5,5,team,influencers,health,yoga_studio,protect,science,privacy,weekly,active,sad,short
+1014,m,Spain,3,undergrad,early_adoptor,physiological,email,1,usage,4,2,5,team,leaders,,health_forums,liberal,religion,privacy,monthly,inactive,angry,influenced
+1015,f,China,3,undergrad,laggard,belonging,store,3,interest,2,5,4,friends,leaders,coffee,wellness_stores,peace,science,privacy,once,inactive,sad,influenced
+1016,m,Venezuala,3,high school,laggard,physiological,store,2,advocacy,4,3,2,team,influencers,,yoga_studio,conservative,religion,ease_of_use,once,inactive,angry,long
+1017,m,Canada,1,undergrad,innovator,esteem,school,3,retention,2,1,5,school,influencers,proactive,yoga_studio,self_care,religion,social,daily,active,happy,research
+1018,f,Venezuala,4,graduate,early_mature,belonging,social,2,usage,5,1,5,team,leaders,health,wellness_stores,liberal,science,ease_of_use,weekly,active,sad,long
+1019,m,Australia,3,graduate,early_mature,esteem,social,2,awareness,4,3,5,school,friends,proactive,health_forums,peace,science,social,weekly,inactive,none,research
+1020,f,Canada,4,high school,innovator,esteem,school,2,desire,2,5,2,team,influencers,,yoga_studio,liberal,science,social,daily,active,none,research
+1021,f,China,2,high school,early_mature,physiological,social,2,retention,3,1,3,family,influencers,health,gym,conservative,science,ease_of_use,daily,active,angry,research
+1022,m,Germany,1,graduate,early_mature,safety,school,1,interest,3,3,4,team,friends,,health_forums,self_care,religion,social,daily,active,happy,long
+1023,m,Venezuala,5,undergrad,laggard,physiological,email,2,advocacy,1,4,5,school,leaders,,wellness_stores,self_care,religion,ease_of_use,once,active,none,long
+1024,f,Australia,2,high school,early_mature,physiological,school,3,advocacy,5,1,4,friends,leaders,health,gym,liberal,religion,ease_of_use,daily,active,happy,impulsive
+1025,f,Canada,5,high school,early_adoptor,actualization,email,3,retention,2,1,4,friends,influencers,health,health_forums,self_care,science,ease_of_use,monthly,active,meek,short
+1026,f,Venezuala,3,high school,early_adoptor,safety,school,3,justify,1,1,1,friends,friends,coffee,gym,conservative,science,privacy,monthly,inactive,sad,long
+1027,f,Spain,2,high school,early_adoptor,esteem,store,3,adoption,4,1,1,family,friends,,wellness_stores,peace,religion,ease_of_use,weekly,inactive,meek,short
+1028,m,China,3,undergrad,late_mature,actualization,reddit,3,adoption,3,3,2,school,leaders,coffee,yoga_studio,self_care,religion,ease_of_use,weekly,inactive,none,influenced
+1029,f,China,3,graduate,late_mature,esteem,school,2,justify,3,2,3,friends,influencers,health,yoga_studio,conservative,science,ease_of_use,daily,active,happy,long
+1030,f,Venezuala,4,high school,late_mature,belonging,school,1,desire,4,1,3,friends,influencers,proactive,gym,protect,science,ease_of_use,once,inactive,angry,short
+1031,m,Venezuala,5,undergrad,late_mature,actualization,school,3,advocacy,2,4,1,family,influencers,health,wellness_stores,peace,religion,ease_of_use,once,inactive,meek,influenced
+1032,m,Canada,1,high school,laggard,safety,school,3,interest,2,1,1,team,leaders,proactive,health_forums,liberal,science,ease_of_use,once,active,none,research
+1033,f,USA,3,high school,late_mature,physiological,store,3,retention,1,2,2,team,friends,,gym,peace,science,privacy,daily,inactive,none,impulsive
+1034,m,China,4,undergrad,early_adoptor,actualization,social,1,advocacy,3,3,5,friends,influencers,coffee,wellness_stores,self_care,science,social,weekly,active,happy,long
+1035,m,Venezuala,1,high school,late_mature,esteem,social,3,expansion,4,1,1,school,influencers,coffee,health_forums,liberal,religion,privacy,daily,inactive,meek,long
+1036,m,Spain,3,high school,early_adoptor,actualization,school,3,expansion,5,3,2,family,friends,,yoga_studio,conservative,religion,privacy,weekly,inactive,angry,short
+1037,f,Canada,3,graduate,laggard,belonging,email,3,usage,2,2,1,family,influencers,proactive,yoga_studio,conservative,science,ease_of_use,monthly,inactive,meek,short
+1038,m,Spain,4,high school,early_adoptor,physiological,email,3,justify,4,3,1,team,friends,,gym,peace,religion,privacy,weekly,active,meek,long
+1039,m,China,1,undergrad,early_adoptor,actualization,school,2,awareness,3,3,3,school,leaders,proactive,gym,peace,science,social,monthly,inactive,angry,long
+1040,m,China,4,graduate,innovator,actualization,store,1,usage,3,1,1,school,leaders,health,health_forums,liberal,science,ease_of_use,daily,active,meek,influenced
+1041,m,Venezuala,2,undergrad,early_mature,belonging,reddit,3,awareness,5,3,1,friends,friends,proactive,yoga_studio,self_care,religion,ease_of_use,daily,inactive,sad,impulsive
+1042,f,Canada,4,graduate,innovator,esteem,store,1,interest,5,2,1,team,leaders,,wellness_stores,protect,science,ease_of_use,weekly,inactive,meek,long
+1043,f,Spain,1,high school,early_mature,safety,store,2,adoption,3,3,2,team,friends,,gym,liberal,science,ease_of_use,daily,active,sad,impulsive
+1044,m,Canada,4,undergrad,early_adoptor,physiological,reddit,1,awareness,2,4,5,family,friends,coffee,gym,peace,religion,privacy,daily,inactive,meek,short
+1045,m,China,4,undergrad,innovator,physiological,store,2,awareness,5,4,2,team,leaders,coffee,yoga_studio,protect,science,social,monthly,inactive,sad,research
+1046,m,Spain,1,graduate,early_adoptor,safety,reddit,2,justify,3,3,2,school,friends,,health_forums,self_care,science,ease_of_use,once,inactive,happy,research
+1047,f,Germany,3,undergrad,laggard,physiological,school,3,usage,5,2,3,friends,leaders,health,yoga_studio,self_care,science,ease_of_use,monthly,active,happy,impulsive
+1048,f,USA,5,high school,early_mature,safety,social,2,awareness,5,2,1,team,leaders,,health_forums,protect,science,ease_of_use,monthly,inactive,angry,long
+1049,f,Venezuala,5,graduate,laggard,safety,school,3,advocacy,4,2,4,school,influencers,coffee,wellness_stores,protect,religion,privacy,daily,active,none,short
+1050,f,USA,2,undergrad,late_mature,belonging,school,2,advocacy,3,4,1,team,friends,coffee,yoga_studio,conservative,religion,ease_of_use,once,inactive,none,research
+1051,f,Germany,2,graduate,laggard,esteem,store,2,interest,3,3,3,friends,friends,health,yoga_studio,conservative,science,ease_of_use,weekly,active,meek,long
+1052,f,Germany,3,graduate,early_adoptor,belonging,store,1,desire,1,1,5,family,influencers,proactive,wellness_stores,conservative,science,ease_of_use,weekly,inactive,angry,influenced
+1053,m,USA,5,high school,laggard,belonging,social,2,desire,1,2,3,friends,influencers,,gym,liberal,religion,social,once,active,happy,impulsive
+1054,m,Germany,2,high school,late_mature,safety,school,3,expansion,3,4,2,school,influencers,proactive,yoga_studio,liberal,religion,privacy,once,active,happy,short
+1055,m,Canada,5,high school,early_adoptor,esteem,school,1,awareness,1,2,3,school,leaders,proactive,gym,protect,science,privacy,monthly,active,sad,research
+1056,f,China,2,graduate,late_mature,esteem,reddit,2,usage,3,4,3,school,friends,,health_forums,liberal,religion,ease_of_use,once,active,none,impulsive
+1057,f,China,2,high school,early_mature,physiological,email,1,expansion,2,3,4,team,influencers,health,gym,conservative,religion,ease_of_use,daily,inactive,angry,short
+1058,f,Germany,1,undergrad,early_mature,belonging,store,2,desire,2,3,2,friends,friends,coffee,wellness_stores,conservative,religion,privacy,daily,active,happy,long
+1059,f,Australia,4,graduate,early_adoptor,safety,store,1,justify,1,5,5,friends,leaders,coffee,wellness_stores,peace,science,social,monthly,inactive,angry,research
+1060,m,Spain,5,high school,laggard,actualization,school,1,action,1,4,5,family,friends,health,yoga_studio,self_care,religion,ease_of_use,monthly,inactive,sad,research
+1061,m,Australia,3,graduate,early_mature,esteem,email,2,awareness,3,3,3,family,influencers,coffee,gym,protect,religion,privacy,weekly,active,happy,research
+1062,f,Germany,5,undergrad,early_adoptor,physiological,social,2,action,5,3,5,friends,influencers,proactive,health_forums,liberal,religion,social,monthly,active,angry,influenced
+1063,m,China,3,undergrad,late_mature,safety,email,1,action,1,3,1,friends,influencers,,health_forums,liberal,religion,ease_of_use,daily,inactive,happy,long
+1064,m,Australia,5,graduate,innovator,actualization,store,1,usage,5,3,1,school,leaders,,yoga_studio,conservative,science,social,daily,inactive,angry,short
+1065,f,Germany,2,undergrad,early_mature,physiological,email,2,expansion,2,1,5,school,leaders,,yoga_studio,liberal,religion,ease_of_use,once,inactive,none,research
+1066,f,USA,4,graduate,early_mature,actualization,store,1,usage,3,1,4,family,leaders,coffee,gym,peace,science,ease_of_use,once,inactive,sad,short
+1067,m,Venezuala,4,high school,early_adoptor,belonging,school,3,advocacy,1,2,3,team,leaders,proactive,gym,conservative,religion,privacy,once,active,meek,influenced
+1068,m,Venezuala,4,undergrad,early_mature,physiological,store,3,adoption,2,5,4,team,leaders,health,wellness_stores,peace,science,ease_of_use,monthly,inactive,angry,short
+1069,m,Venezuala,5,high school,late_mature,safety,social,2,adoption,2,4,1,family,friends,health,yoga_studio,liberal,religion,ease_of_use,weekly,inactive,happy,long
+1070,f,Australia,4,high school,innovator,safety,email,3,adoption,1,5,3,team,influencers,proactive,wellness_stores,liberal,science,ease_of_use,monthly,inactive,sad,long
+1071,m,Venezuala,2,graduate,early_adoptor,belonging,school,2,adoption,5,5,5,school,leaders,coffee,wellness_stores,liberal,science,social,weekly,active,sad,research
+1072,m,China,3,graduate,late_mature,belonging,social,1,action,4,3,3,family,friends,health,wellness_stores,peace,science,privacy,monthly,inactive,angry,influenced
+1073,f,Spain,1,undergrad,early_adoptor,esteem,reddit,2,usage,3,5,3,family,friends,proactive,health_forums,peace,science,ease_of_use,monthly,inactive,sad,long
+1074,m,Spain,3,undergrad,late_mature,physiological,reddit,2,interest,4,4,5,family,friends,health,gym,protect,science,social,daily,active,happy,long
+1075,m,China,4,graduate,early_mature,belonging,social,1,desire,4,3,2,family,influencers,proactive,health_forums,peace,religion,ease_of_use,monthly,inactive,angry,long
+1076,f,Spain,3,high school,early_mature,esteem,reddit,2,usage,3,2,5,family,leaders,coffee,yoga_studio,liberal,religion,privacy,once,active,sad,long
+1077,f,China,4,high school,early_adoptor,physiological,email,1,adoption,5,5,4,school,leaders,coffee,health_forums,peace,religion,ease_of_use,daily,active,angry,impulsive
+1078,m,USA,3,undergrad,early_adoptor,esteem,school,1,adoption,1,4,2,school,friends,,wellness_stores,conservative,religion,privacy,weekly,inactive,none,research
+1079,m,USA,5,undergrad,laggard,physiological,store,3,interest,5,2,4,team,leaders,proactive,wellness_stores,self_care,science,ease_of_use,weekly,inactive,happy,research
+1080,f,Spain,2,high school,innovator,esteem,store,2,adoption,3,4,2,team,friends,coffee,gym,protect,science,social,weekly,active,meek,research
+1081,f,Spain,4,graduate,innovator,safety,store,1,expansion,2,5,3,family,leaders,coffee,health_forums,protect,religion,social,daily,active,meek,influenced
+1082,f,Germany,5,high school,early_adoptor,physiological,email,1,advocacy,4,3,5,school,influencers,proactive,health_forums,protect,science,ease_of_use,once,active,sad,research
+1083,m,Australia,2,high school,early_mature,actualization,email,1,usage,5,3,3,friends,influencers,health,wellness_stores,self_care,science,social,once,inactive,angry,long
+1084,f,China,3,undergrad,early_adoptor,belonging,email,1,action,4,4,1,school,leaders,proactive,wellness_stores,conservative,science,privacy,once,inactive,sad,research
+1085,f,Canada,2,undergrad,early_adoptor,safety,reddit,2,desire,2,5,5,team,influencers,health,gym,conservative,religion,privacy,daily,inactive,meek,short
+1086,f,Australia,3,graduate,early_adoptor,belonging,reddit,1,usage,4,4,5,school,friends,health,health_forums,peace,religion,social,monthly,inactive,none,impulsive
+1087,m,Australia,3,undergrad,early_adoptor,actualization,email,1,retention,1,4,4,school,friends,coffee,wellness_stores,protect,religion,social,weekly,active,meek,influenced
+1088,m,Australia,1,undergrad,laggard,esteem,email,3,desire,3,4,1,friends,friends,health,wellness_stores,liberal,science,privacy,weekly,inactive,meek,impulsive
+1089,m,USA,2,undergrad,early_adoptor,esteem,store,3,advocacy,1,1,5,friends,friends,coffee,yoga_studio,conservative,science,ease_of_use,daily,inactive,happy,short
+1090,m,Venezuala,2,graduate,early_adoptor,safety,email,1,advocacy,5,5,3,friends,influencers,,health_forums,conservative,religion,ease_of_use,once,active,meek,research
+1091,m,Spain,1,graduate,early_adoptor,esteem,reddit,3,usage,2,4,5,family,leaders,health,yoga_studio,peace,religion,social,once,inactive,sad,short
+1092,m,Australia,4,graduate,early_mature,physiological,email,2,action,1,1,4,team,friends,proactive,wellness_stores,conservative,science,privacy,daily,inactive,happy,impulsive
+1093,f,USA,4,graduate,laggard,actualization,school,3,justify,4,1,4,school,friends,,yoga_studio,self_care,science,privacy,daily,inactive,none,research
+1094,f,Australia,4,undergrad,early_adoptor,physiological,reddit,3,usage,1,2,3,school,leaders,,health_forums,conservative,science,social,weekly,inactive,happy,long
+1095,m,Venezuala,4,high school,early_mature,belonging,school,2,justify,1,5,2,family,influencers,coffee,gym,self_care,religion,social,monthly,active,angry,short
+1096,m,Germany,5,high school,early_mature,safety,store,1,expansion,3,5,3,family,influencers,proactive,wellness_stores,peace,religion,privacy,weekly,inactive,happy,research
+1097,f,Venezuala,1,undergrad,early_adoptor,actualization,social,2,advocacy,3,2,2,team,influencers,,yoga_studio,protect,religion,social,once,active,none,impulsive
+1098,f,Germany,5,high school,late_mature,safety,email,1,adoption,3,5,2,friends,leaders,,yoga_studio,conservative,religion,social,weekly,inactive,angry,research
+1099,f,Germany,3,undergrad,laggard,physiological,school,2,advocacy,5,3,5,school,leaders,health,gym,protect,science,privacy,monthly,inactive,happy,impulsive
+1100,m,Australia,2,graduate,laggard,belonging,school,1,adoption,4,1,4,school,friends,coffee,wellness_stores,peace,religion,ease_of_use,monthly,active,none,research
